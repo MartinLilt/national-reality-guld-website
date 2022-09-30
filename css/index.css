@@ -1,0 +1,245 @@
+.hero_supptitle {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 0 40px 0;
+}
+
+.hero_padding {
+  padding: 40px 0 20px 0;
+}
+
+.hero_svg {
+  transform: rotate(90deg);
+}
+
+.hero_title {
+  font-size: 28px;
+  color: #dfb85d;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.hero_title::after {
+  content: "";
+  display: flex;
+  width: 80%;
+  margin: 60px auto 40px auto;
+  border-bottom: 2px solid #e90000;
+}
+
+.hero_text {
+  line-height: 1.5;
+  color: rgb(255 255 255 / 70%);
+}
+
+.hero_text_box {
+  margin: 0 0 40px 0;
+  display: block;
+}
+
+.hero_text_accent {
+  font-weight: 800;
+  color: #e90000;
+}
+
+.hero_button {
+  background-color: #e90000;
+  color: #fff;
+  width: 100%;
+  padding: 20px 0;
+  font-weight: 800;
+  border-radius: 4px;
+  margin: 0 0 20px 0;
+}
+
+.hero_button:last-child {
+  margin: 0 0 60px 0;
+  background: none;
+  color: #dfb85d;
+  border: #dfb85d 1px solid;
+}
+
+.about_padding {
+  padding: 0 0 80px 0;
+}
+
+.about_sentence:nth-child(1) {
+  background-color: rgba(255, 255, 255, 0.416);
+  background-image: url(../img/about-nrg.jpg);
+}
+
+.about_sentence:nth-child(2) {
+  background-color: rgba(255, 255, 255, 0.416);
+  background-image: url(../img/supports.jpg);
+}
+
+.about_sentence:nth-child(3) {
+  background-color: rgba(255, 255, 255, 0.416);
+  background-image: url(../img/join-today.jpg);
+}
+
+.about_sentence:not(:last-child) {
+  margin: 0 0 20px 0;
+}
+
+.about_title {
+  font-size: 24px;
+  color: #dfb85d;
+  background-color: #1e1e1eca;
+  padding: 240px 0;
+  font-weight: 800;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.about_content {
+  margin: 0 0 40px 0;
+}
+
+.about_supptitle {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 28px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 0 40px 0;
+}
+
+.about_svg {
+  transform: rotate(90deg);
+}
+
+.about_category_sentence {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.about_category_sentence:not(:last-child) {
+  margin: 0 auto 40px auto;
+}
+
+.about_category_img {
+  border-radius: 8px;
+  margin: 0 0 40px 0;
+  width: 100%;
+}
+
+.about_category_text {
+  line-height: 1.5;
+  color: rgb(255 255 255 / 70%);
+}
+
+.benefits_padding {
+  padding: 0 0 80px 0;
+}
+
+.benefits_supptitle {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 28px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 0 40px 0;
+}
+
+.benefits_supptitle span {
+  text-align: center;
+  font-weight: 800;
+  color: #dfb85d;
+}
+
+.benefits_sentence {
+  display: flex;
+}
+
+.benefits_text {
+  line-height: 1.5;
+  color: rgb(255 255 255 / 70%);
+}
+
+.benefits_list:not(:first-child) {
+  margin: 10px 0 0 0;
+}
+
+.benefits_link {
+  display: flex;
+  align-items: center;
+}
+
+.benefits_link_text {
+  color: rgb(255 255 255 / 80%);
+}
+
+.benefits_img {
+  width: 100px;
+  opacity: 20%;
+  margin: 0 10px 0 0;
+}
+
+.benefits_title {
+  color: #fff;
+}
+
+.question_padding {
+  padding: 0 0 80px 0;
+}
+
+.question_svg {
+  transform: rotate(-90deg);
+}
+
+.question_content {
+  margin: 0 0 80px 0;
+}
+
+.question_title {
+  text-align: center;
+  font-weight: 800;
+  color: #dfb85d;
+  text-transform: uppercase;
+  font-size: 28px;
+}
+
+.question_title_category {
+  font-size: 18px;
+  display: block;
+  color: #ffffff;
+  background-color: #1e1e1eca;
+  padding: 80px 0 100px 0;
+  font-weight: 800;
+  text-transform: uppercase;
+  text-align: center;
+
+  position: relative;
+}
+
+.question_title_category img {
+  position: absolute;
+  transform: translate(-60%, -5%);
+  width: 80px;
+}
+
+.question_title_sentence:not(:last-child) {
+  margin: 0 0 20px 0;
+}
+
+.resource_supptitle {
+  color: rgb(255 255 255 / 80%);
+  text-align: center;
+}
+
+.resource_content {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 28px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 0 20px 0;
+}
+
+.resource_svg {
+  transform: rotate(-90deg);
+}
