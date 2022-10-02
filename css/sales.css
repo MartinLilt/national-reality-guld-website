@@ -1,0 +1,144 @@
+.technology_padding {
+  padding: 40px 0 0 0;
+}
+
+.technology_title {
+  font-size: 26px;
+  color: #dfb85d;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.technology_title::after {
+  content: "";
+  display: flex;
+  width: 80%;
+  margin: 0 auto 40px auto;
+  border-bottom: 2px solid #e90000;
+}
+
+.technology_text {
+  line-height: 1.5;
+  color: rgb(255 255 255 / 70%);
+  margin: 0 0 40px 0;
+}
+
+.technology_button {
+  background-color: #e90000;
+  color: #fff;
+  width: 100%;
+  padding: 15px 0;
+  font-weight: 800;
+  border-radius: 4px;
+  margin: 0 auto;
+  display: block;
+}
+
+.technology_sentence:not(:last-child) {
+  margin: 0 0 10px 0;
+}
+
+.technology_category {
+  background-color: #1e1e1eca;
+  border-radius: 8px;
+  padding: 40px 30px 60px 30px;
+}
+
+.technology_category_title {
+  color: #dfb85d;
+}
+
+.technology_list {
+  margin: 0 0 60px 0;
+}
+
+.resource_sentence_box {
+  margin: 0 0 60px 0;
+}
+
+.resource_sentence {
+  display: flex;
+  flex-direction: column;
+  background-color: #1e1e1eca;
+  padding: 60px 15px;
+  border-radius: 8px;
+}
+
+.resource_sentence:not(:last-child) {
+  margin: 0 0 20px 0;
+}
+
+.resource_sentence_box_img {
+  border: #dfb85d solid 3px;
+  border-radius: 50%;
+  padding: 20px;
+  margin: 0 auto 20px auto;
+}
+
+.resource_sentence_img {
+  width: 80px;
+  opacity: 20%;
+}
+
+.resource_sentence_box_title {
+  color: rgb(255 255 255 / 80%);
+  text-align: center;
+}
+
+.resource_sentence_title {
+  font-weight: 800;
+  color: #fff;
+}
+
+.technology_text_support {
+  text-align: center;
+  font-size: 16px;
+  line-height: 1.5;
+  color: rgb(255 255 255 / 70%);
+  margin: 0 0 40px 0;
+}
+
+.more_title {
+  background-color: #1e1e1e;
+  display: block;
+  padding: 8px 10px;
+  margin: 0 0 20px 0;
+  border-bottom: 3px solid #dfb85d;
+  font-weight: 800;
+  color: rgb(255, 255, 255);
+}
+
+.more_contacts_list:not(:first-child) {
+  margin: 20px 0 0 0;
+}
+
+.more_contacts_list::after {
+  content: "";
+  display: flex;
+  width: 100%;
+  border-bottom: 1px dashed rgb(255 255 255 / 50%);
+}
+
+.more_padding {
+  padding: 80px 0;
+}
+
+.technology_button_get {
+  background-color: #dfb85d;
+  color: #fff;
+  width: 100%;
+  padding: 15px 0;
+  font-weight: 800;
+  border-radius: 4px;
+  margin: 0 auto;
+  display: block;
+}
+
+.postcards_background {
+  background-color: #1e1e1e;
+}
+
+.postcards_img {
+  margin: 0 auto;
+  display: block;
+}
