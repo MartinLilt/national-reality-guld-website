@@ -22,8 +22,77 @@
     <link href="./css/footer.css" rel="stylesheet" />
     <title>National Reality Guild</title>
   </head>
-  <body class="body">
-    <header class="header">
+  <body class="body" data-body-hidden>
+    <div class="modal" data-modal-menu>
+      <div class="modal_padding">
+        <span class="modal_button"
+          ><span class="modal_img_content" data-close
+            ><img src="./icon/exit.svg" alt="" class="modal_img" /></span
+        ></span>
+        <span class="modal_title">USEFUL LINKS</span>
+        <nav>
+          <ul>
+            <li class="modal_sentence_list">
+              <a href="./index.html" class="modal_sentence_link"
+                ><span class="modal_svg"
+                  ><img src="./icon/arrow.svg" alt="Mobile menu" class="img"
+                /></span>
+                <p>Home</p></a
+              >
+            </li>
+            <li class="modal_sentence_list">
+              <a href="./benefits.html" class="modal_sentence_link"
+                ><span class="modal_svg"
+                  ><img src="./icon/arrow.svg" alt="Mobile menu" class="img"
+                /></span>
+                <p>Benefits</p></a
+              >
+            </li>
+            <li class="modal_sentence_list">
+              <a href="./sales.html" class="modal_sentence_link"
+                ><span class="modal_svg"
+                  ><img src="./icon/arrow.svg" alt="Mobile menu" class="img"
+                /></span>
+                <p>Sales Growth</p></a
+              >
+            </li>
+            <li class="modal_sentence_list">
+              <a href="./support.html" class="modal_sentence_link"
+                ><span class="modal_svg"
+                  ><img src="./icon/arrow.svg" alt="Mobile menu" class="img"
+                /></span>
+                <p>Support</p></a
+              >
+            </li>
+            <li class="modal_sentence_list">
+              <a href="./location.html" class="modal_sentence_link"
+                ><span class="modal_svg"
+                  ><img src="./icon/arrow.svg" alt="Mobile menu" class="img"
+                /></span>
+                <p>Locations</p></a
+              >
+            </li>
+            <li class="modal_sentence_list">
+              <a href="./start.html" class="modal_sentence_link"
+                ><span class="modal_svg"
+                  ><img src="./icon/arrow.svg" alt="Mobile menu" class="img"
+                /></span>
+                <p>Get Started</p></a
+              >
+            </li>
+            <li class="modal_sentence_list">
+              <a href="./learn.html" class="modal_sentence_link"
+                ><span class="modal_svg"
+                  ><img src="./icon/arrow.svg" alt="Mobile menu" class="img"
+                /></span>
+                <p>Learn More</p></a
+              >
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+    <header class="header" id="below-arrow">
       <div class="header_social_background">
         <ul class="header_social container">
           <li class="header_social_sentence">
@@ -289,6 +358,15 @@
         </div>
       </div>
     </footer>
+    <div class="container">
+      <a href="#below-arrow" class="below_flex">
+        <div class="below_box">
+          <span class="below_background"
+            ><img src="./icon/arrow.svg" alt="" class="below_img"
+          /></span>
+        </div>
+      </a>
+    </div>
     <script src="./js/toggleModal.js"></script>
   </body>
 </html>

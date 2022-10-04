@@ -1,0 +1,43 @@
+.start_padding {
+  padding: 40px 0 0 0;
+}
+
+.resource_sentence_text_final {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: capitalize;
+  line-height: 24px;
+  text-align: center;
+  margin: 0 0 20px 0;
+}
+
+.resource_sentence_supptext_final {
+  color: #dfb85d;
+  font-size: 24px;
+  font-weight: 800;
+}
+
+.start_supptext {
+  color: rgb(255 255 255 / 50%);
+  font-weight: 400;
+  text-transform: capitalize;
+  line-height: 24px;
+  text-align: center;
+  margin: 0 0 40px 0;
+}
+
+.hero_title {
+  font-size: 28px;
+  color: #dfb85d;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.hero_title::after {
+  content: "";
+  display: flex;
+  width: 80%;
+  margin: 0 auto 40px auto;
+  border-bottom: 2px solid #e90000;
+}

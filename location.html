@@ -20,10 +20,80 @@
     <link href="./css/normalize.css" rel="stylesheet" />
     <link href="./css/header.css" rel="stylesheet" />
     <link href="./css/footer.css" rel="stylesheet" />
+    <link href="./css/location.css" rel="stylesheet" />
     <title>National Reality Guild</title>
   </head>
-  <body class="body">
-    <header class="header">
+  <body class="body" data-body-hidden>
+    <div class="modal" data-modal-menu>
+      <div class="modal_padding">
+        <span class="modal_button"
+          ><span class="modal_img_content" data-close
+            ><img src="./icon/exit.svg" alt="" class="modal_img" /></span
+        ></span>
+        <span class="modal_title">USEFUL LINKS</span>
+        <nav>
+          <ul>
+            <li class="modal_sentence_list">
+              <a href="./index.html" class="modal_sentence_link"
+                ><span class="modal_svg"
+                  ><img src="./icon/arrow.svg" alt="Mobile menu" class="img"
+                /></span>
+                <p>Home</p></a
+              >
+            </li>
+            <li class="modal_sentence_list">
+              <a href="./benefits.html" class="modal_sentence_link"
+                ><span class="modal_svg"
+                  ><img src="./icon/arrow.svg" alt="Mobile menu" class="img"
+                /></span>
+                <p>Benefits</p></a
+              >
+            </li>
+            <li class="modal_sentence_list">
+              <a href="./sales.html" class="modal_sentence_link"
+                ><span class="modal_svg"
+                  ><img src="./icon/arrow.svg" alt="Mobile menu" class="img"
+                /></span>
+                <p>Sales Growth</p></a
+              >
+            </li>
+            <li class="modal_sentence_list">
+              <a href="./support.html" class="modal_sentence_link"
+                ><span class="modal_svg"
+                  ><img src="./icon/arrow.svg" alt="Mobile menu" class="img"
+                /></span>
+                <p>Support</p></a
+              >
+            </li>
+            <li class="modal_sentence_list">
+              <a href="./location.html" class="modal_sentence_link"
+                ><span class="modal_svg"
+                  ><img src="./icon/arrow.svg" alt="Mobile menu" class="img"
+                /></span>
+                <p>Locations</p></a
+              >
+            </li>
+            <li class="modal_sentence_list">
+              <a href="./start.html" class="modal_sentence_link"
+                ><span class="modal_svg"
+                  ><img src="./icon/arrow.svg" alt="Mobile menu" class="img"
+                /></span>
+                <p>Get Started</p></a
+              >
+            </li>
+            <li class="modal_sentence_list">
+              <a href="./learn.html" class="modal_sentence_link"
+                ><span class="modal_svg"
+                  ><img src="./icon/arrow.svg" alt="Mobile menu" class="img"
+                /></span>
+                <p>Learn More</p></a
+              >
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+    <header class="header" id="below-arrow">
       <div class="header_social_background">
         <ul class="header_social container">
           <li class="header_social_sentence">
@@ -72,7 +142,7 @@
             </a>
           </li>
           <li><a class="header_desktop" href="./index.html">HOME</a></li>
-          <li><a class="header_desktop" href="./benefits.html">BENEFITS</a></li>
+          <li><a class="header_desktop" href="./location.html">location</a></li>
           <li>
             <a class="header_desktop" href="./sales.html">SALES GROWTH</a>
           </li>
@@ -93,7 +163,399 @@
         </ul>
       </div>
     </header>
-    <main></main>
+    <main>
+      <section>
+        <div class="container">
+          <div class="location_padding">
+            <h3 class="location_title">You're Not Alone with NRG</h3>
+            <span class="location_supptitle"
+              ><span>MINNESOTA</span
+              ><img
+                src="./icon/arrow.svg"
+                alt="National Reatity Guild Logo"
+                class="location_svg"
+            /></span>
+            <ul class="location_button_box">
+              <li class="location_sentence">
+                <button type="button" class="location_button">
+                  Minneapolis
+                </button>
+              </li>
+              <li class="location_sentence">
+                <button type="button" class="location_button">Woodbury</button>
+              </li>
+              <li class="location_sentence">
+                <button type="button" class="location_button">
+                  Becker Office
+                </button>
+              </li>
+              <li class="location_sentence">
+                <button type="button" class="location_button">
+                  Bloomington
+                </button>
+              </li>
+              <li class="location_sentence">
+                <button type="button" class="location_button">
+                  St. Louis Park
+                </button>
+              </li>
+              <li class="location_sentence">
+                <button type="button" class="location_button">
+                  Minnetonka
+                </button>
+              </li>
+              <li class="location_sentence">
+                <button type="button" class="location_button">
+                  Edina Officenter
+                </button>
+              </li>
+              <li class="location_sentence">
+                <button type="button" class="location_button">
+                  St. Cloud Office
+                </button>
+              </li>
+              <li class="location_sentence">
+                <button type="button" class="location_button">Edina</button>
+              </li>
+            </ul>
+            <span class="location_supptitle"
+              ><span>FLORIDA</span
+              ><img
+                src="./icon/arrow.svg"
+                alt="National Reatity Guild Logo"
+                class="location_svg"
+            /></span>
+            <ul class="location_button_box">
+              <li class="location_sentence">
+                <button type="button" class="location_button">Naples</button>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </section>
+      <section>
+        <div class="container">
+          <div class="office_padding">
+            <ul>
+              <li>
+                <span class="office_title"
+                  ><h3>Union Plaza OffiCenter</h3>
+                </span>
+                <p class="office_supptitle">
+                  333 Washington Avenue N, Suite 300<br />
+                  Minneapolis, MN 55401
+                </p>
+                <span class="office_img"><img src="" alt="" /></span>
+                <span class="about_supptitle"
+                  ><span>AMENITIES</span
+                  ><span
+                    ><img
+                      src="./icon/red-arrow.svg"
+                      alt="National Reatity Guild Logo"
+                      class="question_svg" /><img
+                      src="./icon/red-arrow.svg"
+                      alt="National Reatity Guild Logo"
+                      class="question_svg" /><img
+                      src="./icon/red-arrow.svg"
+                      alt="National Reatity Guild Logo"
+                      class="question_svg" /></span
+                ></span>
+                <ul>
+                  <li>
+                    <span class="office_img_category"
+                      ><img src="" alt=""
+                    /></span>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <span class="office_title"><h3>Park OffiCenter</h3> </span>
+                <p class="office_supptitle">
+                  5775 Wayzata Boulevard, Suite 700<br />
+                  St. Louis Park, MN 55416
+                </p>
+                <span class="office_img"><img src="" alt="" /></span>
+                <span class="about_supptitle"
+                  ><span>AMENITIES</span
+                  ><span
+                    ><img
+                      src="./icon/red-arrow.svg"
+                      alt="National Reatity Guild Logo"
+                      class="question_svg" /><img
+                      src="./icon/red-arrow.svg"
+                      alt="National Reatity Guild Logo"
+                      class="question_svg" /><img
+                      src="./icon/red-arrow.svg"
+                      alt="National Reatity Guild Logo"
+                      class="question_svg" /></span
+                ></span>
+                <ul>
+                  <li>
+                    <span class="office_img_category"
+                      ><img src="" alt=""
+                    /></span>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <span class="office_title"
+                  ><h3>Minnetonka OffiCenter</h3>
+                </span>
+                <p class="office_supptitle">
+                  12800 Whitewater Drive, Suite 100<br />
+                  Minnetonka, MN 55343
+                </p>
+                <span class="office_img"><img src="" alt="" /></span>
+                <span class="about_supptitle"
+                  ><span>AMENITIES</span
+                  ><span
+                    ><img
+                      src="./icon/red-arrow.svg"
+                      alt="National Reatity Guild Logo"
+                      class="question_svg" /><img
+                      src="./icon/red-arrow.svg"
+                      alt="National Reatity Guild Logo"
+                      class="question_svg" /><img
+                      src="./icon/red-arrow.svg"
+                      alt="National Reatity Guild Logo"
+                      class="question_svg" /></span
+                ></span>
+                <ul>
+                  <li>
+                    <span class="office_img_category"
+                      ><img src="" alt=""
+                    /></span>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <span class="office_title"><h3>France OffiCenter</h3> </span>
+                <p class="office_supptitle">
+                  3800 American Boulevard West, Suite 1500<br />
+                  Edina, MN 55431
+                </p>
+                <span class="office_video"
+                  ><iframe
+                    src="https://www.youtube.com/embed/nylwtAxcF1g"
+                    title="Edina OffiCenter 60 Second Tour!"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen
+                  ></iframe
+                ></span>
+                <span class="about_supptitle"
+                  ><span>AMENITIES</span
+                  ><span
+                    ><img
+                      src="./icon/red-arrow.svg"
+                      alt="National Reatity Guild Logo"
+                      class="question_svg" /><img
+                      src="./icon/red-arrow.svg"
+                      alt="National Reatity Guild Logo"
+                      class="question_svg" /><img
+                      src="./icon/red-arrow.svg"
+                      alt="National Reatity Guild Logo"
+                      class="question_svg" /></span
+                ></span>
+                <ul>
+                  <li>
+                    <span class="office_img_category"
+                      ><img src="" alt=""
+                    /></span>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <span class="office_title"
+                  ><h3>OffiCenters at International Plaza</h3>
+                </span>
+                <p class="office_supptitle">
+                  7900 International Drive, Suite 300<br />
+                  Bloomington, MN 55425
+                </p>
+                <span class="office_img"><img src="" alt="" /></span>
+                <span class="about_supptitle"
+                  ><span>AMENITIES</span
+                  ><span
+                    ><img
+                      src="./icon/red-arrow.svg"
+                      alt="National Reatity Guild Logo"
+                      class="question_svg" /><img
+                      src="./icon/red-arrow.svg"
+                      alt="National Reatity Guild Logo"
+                      class="question_svg" /><img
+                      src="./icon/red-arrow.svg"
+                      alt="National Reatity Guild Logo"
+                      class="question_svg" /></span
+                ></span>
+                <ul>
+                  <li>
+                    <span class="office_img_category"
+                      ><img src="" alt=""
+                    /></span>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <span class="office_title"><h3>Woodbury</h3> </span>
+                <p class="office_supptitle">
+                  2042 Wooddale Drive, Suite 250<br />
+                  Woodbury, MN 55125
+                </p>
+                <span class="office_video"
+                  ><iframe
+                    src="https://www.youtube.com/embed/AUkAJ8d05Bc"
+                    title="Woodbury OffiCenter 60 Second Tour"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen
+                  ></iframe
+                ></span>
+                <span class="about_supptitle"
+                  ><span>AMENITIES</span
+                  ><span
+                    ><img
+                      src="./icon/red-arrow.svg"
+                      alt="National Reatity Guild Logo"
+                      class="question_svg" /><img
+                      src="./icon/red-arrow.svg"
+                      alt="National Reatity Guild Logo"
+                      class="question_svg" /><img
+                      src="./icon/red-arrow.svg"
+                      alt="National Reatity Guild Logo"
+                      class="question_svg" /></span
+                ></span>
+                <ul>
+                  <li>
+                    <span class="office_img_category"
+                      ><img src="" alt=""
+                    /></span>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <span class="office_title"><h3>Edina Officenter</h3> </span>
+                <p class="office_supptitle">
+                  5200 Willson Road, Suite 150<br />
+                  Edina, MN 55424<br />
+                  952.836-2700
+                </p>
+                <span class="office_img"><img src="" alt="" /></span>
+                <span class="about_supptitle"
+                  ><span>AMENITIES</span
+                  ><span
+                    ><img
+                      src="./icon/red-arrow.svg"
+                      alt="National Reatity Guild Logo"
+                      class="question_svg" /><img
+                      src="./icon/red-arrow.svg"
+                      alt="National Reatity Guild Logo"
+                      class="question_svg" /><img
+                      src="./icon/red-arrow.svg"
+                      alt="National Reatity Guild Logo"
+                      class="question_svg" /></span
+                ></span>
+                <ul>
+                  <li>
+                    <span class="office_img_category"
+                      ><img src="" alt=""
+                    /></span>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <span class="office_title"><h3>Becker Office</h3> </span>
+                <p class="office_supptitle">
+                  12390 Sherburne Ave<br />
+                  Becker, MN 55308
+                </p>
+                <span class="office_img"><img src="" alt="" /></span>
+                <span class="about_supptitle"
+                  ><span>AMENITIES</span
+                  ><span
+                    ><img
+                      src="./icon/red-arrow.svg"
+                      alt="National Reatity Guild Logo"
+                      class="question_svg" /><img
+                      src="./icon/red-arrow.svg"
+                      alt="National Reatity Guild Logo"
+                      class="question_svg" /><img
+                      src="./icon/red-arrow.svg"
+                      alt="National Reatity Guild Logo"
+                      class="question_svg" /></span
+                ></span>
+                <ul>
+                  <li>
+                    <span class="office_img_category"
+                      ><img src="" alt=""
+                    /></span>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <span class="office_title"><h3>St Cloud Office</h3> </span>
+                <p class="office_supptitle">
+                  <a href="" class="office_supptitle_link">203</a> Cooper Avenue
+                  North<br />
+                  Suite #<a href="" class="office_supptitle_link">350</a><br />
+                  St Cloud 56301
+                </p>
+                <span class="office_img"><img src="" alt="" /></span>
+                <span class="about_supptitle"
+                  ><span>AMENITIES</span
+                  ><span
+                    ><img
+                      src="./icon/red-arrow.svg"
+                      alt="National Reatity Guild Logo"
+                      class="question_svg" /><img
+                      src="./icon/red-arrow.svg"
+                      alt="National Reatity Guild Logo"
+                      class="question_svg" /><img
+                      src="./icon/red-arrow.svg"
+                      alt="National Reatity Guild Logo"
+                      class="question_svg" /></span
+                ></span>
+                <ul>
+                  <li>
+                    <span class="office_img_category"
+                      ><img src="" alt=""
+                    /></span>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <span class="office_title"><h3>Venture X Naples</h3> </span>
+                <p class="office_supptitle">
+                  4850 Tamiami Trail N Suite 301, Naples, FL 34103
+                </p>
+                <span class="office_img"><img src="" alt="" /></span>
+                <span class="about_supptitle"
+                  ><span>AMENITIES</span
+                  ><span
+                    ><img
+                      src="./icon/red-arrow.svg"
+                      alt="National Reatity Guild Logo"
+                      class="question_svg" /><img
+                      src="./icon/red-arrow.svg"
+                      alt="National Reatity Guild Logo"
+                      class="question_svg" /><img
+                      src="./icon/red-arrow.svg"
+                      alt="National Reatity Guild Logo"
+                      class="question_svg" /></span
+                ></span>
+                <ul>
+                  <li>
+                    <span class="office_img_category"
+                      ><img src="" alt=""
+                    /></span>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </section>
+    </main>
     <footer class="footer">
       <div class="container">
         <ul class="footer_container">
@@ -174,7 +636,7 @@
                         alt="Mobile menu"
                         class="img"
                     /></span>
-                    <p>NRG Agent Benefits</p></a
+                    <p>NRG Agent location</p></a
                   >
                 </li>
                 <li class="footer_sentence_list">
@@ -289,6 +751,15 @@
         </div>
       </div>
     </footer>
+    <div class="container">
+      <a href="#below-arrow" class="below_flex">
+        <div class="below_box">
+          <span class="below_background"
+            ><img src="./icon/arrow.svg" alt="" class="below_img"
+          /></span>
+        </div>
+      </a>
+    </div>
     <script src="./js/toggleModal.js"></script>
   </body>
 </html>
