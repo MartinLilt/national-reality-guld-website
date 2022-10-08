@@ -1,0 +1,160 @@
+.learn_padding {
+  padding: 40px 0;
+}
+
+.learn_drop_padding {
+  padding: 40px 0 80px 0;
+}
+
+.learn_title {
+  font-size: 26px;
+  color: #dfb85d;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.learn_title::after {
+  content: "";
+  display: flex;
+  width: 80%;
+  margin: 0 auto 20px auto;
+  border-bottom: 2px solid #e90000;
+}
+
+.learn_supptitle {
+  line-height: 1.5;
+  color: rgb(255 255 255 / 70%);
+  text-align: center;
+}
+
+.learn_supptitle_form {
+  line-height: 1.5;
+  color: rgb(255 255 255 / 70%);
+  text-align: center;
+  margin: 0 0 60px 0;
+}
+
+.learn_icon {
+  color: rgba(255, 255, 255, 0.5);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.learn_icon_svg {
+  transform: rotate(90deg);
+}
+
+.learn_background {
+  background-color: #000;
+}
+
+.learn_drop_title {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 28px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 0 40px 0;
+}
+
+.learn_drop_list {
+  width: 90%;
+  display: block;
+  margin: 0 auto;
+}
+
+.learn_drop_list_text {
+  font-weight: 800;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  width: 70%;
+}
+
+.learn_drop_list_supptext {
+  color: #dfb85d;
+}
+
+.learn_drop_list_icon {
+  display: flex;
+  align-items: center;
+}
+
+.learn_drop_list_icon::before {
+  content: "";
+  display: block;
+  width: 50px;
+  height: 50px;
+  margin: 0 20px 0 0;
+  background-color: #1e1e1e;
+  border: solid 2px #dfb85d;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.learn_drop_box {
+  display: block;
+  width: 100%;
+  margin: 0 0 40px 0;
+}
+
+.learn_drop_img {
+  width: inherit;
+}
+
+.learn_drop_input {
+  border: solid 2px #1e1e1e;
+  border-radius: 4px;
+  display: flex;
+  margin: 0 0 20px 0;
+}
+
+.learn_drop_button {
+  background-color: #e90000;
+  color: #fff;
+  width: 100%;
+  padding: 20px 0;
+  font-weight: 800;
+  border-radius: 4px;
+}
+
+.learn_join_background {
+  background-color: #1e1e1eca;
+}
+
+.learn_join_padding {
+  padding: 100px 0;
+}
+
+.learn_join_title {
+  font-size: 18px;
+  color: #dfb85d;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.learn_join_title::after {
+  content: "";
+  display: flex;
+  width: 80%;
+  margin: 0 auto 20px auto;
+  border-bottom: 2px solid #e90000;
+}
+
+.learn_join_text {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 18px;
+  text-align: center;
+  margin: 0 0 40px 0;
+}
+
+.learn_join_button {
+  background-color: #e90000;
+  color: #fff;
+  width: 100%;
+  padding: 15px 0;
+  font-weight: 800;
+  border-radius: 4px;
+  margin: 0 auto;
+  display: block;
+}

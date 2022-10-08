@@ -1,3 +1,41 @@
+@media screen and (min-width: 1165px) {
+  .hero_desktop {
+    display: flex;
+  }
+}
+
+@media screen and (min-width: 1165px) {
+  .hero_content {
+    width: 50%;
+    margin: 0 20px 0 0;
+  }
+}
+
+@media screen and (min-width: 1165px) {
+  .video_desktop {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+}
+
+@media screen and (min-width: 1165px) {
+  .hero_video {
+    height: 75%;
+  }
+}
+
+.hero_button_desktop {
+  display: none;
+}
+
+@media screen and (min-width: 1165px) {
+  .hero_button_desktop {
+    display: flex;
+  }
+}
+
 .hero_supptitle {
   color: rgba(255, 255, 255, 0.5);
   font-size: 10px;
@@ -7,13 +45,21 @@
   margin: 0 0 40px 0;
 }
 
+@media screen and (min-width: 1165px) {
+  .hero_supptitle {
+    margin: 0 0 80px 0;
+    font-size: 12px;
+  }
+}
+
 .hero_padding {
   padding: 40px 0 20px 0;
 }
 
-.hero_video {
-  width: 100%;
-  height: 168px;
+@media screen and (min-width: 1165px) {
+  .hero_padding {
+    padding: 80px 0;
+  }
 }
 
 .hero_svg {
@@ -25,6 +71,15 @@
   color: #dfb85d;
   text-transform: uppercase;
   text-align: center;
+}
+
+@media screen and (min-width: 1165px) {
+  .hero_title {
+    font-size: 38px;
+    color: #dfb85d;
+    text-transform: uppercase;
+    text-align: center;
+  }
 }
 
 .hero_title::after {
@@ -45,9 +100,29 @@
   display: block;
 }
 
+@media screen and (min-width: 1165px) {
+  .hero_text_box {
+    font-size: 16px;
+    margin: 0;
+  }
+}
+
 .hero_text_accent {
   font-weight: 800;
   color: #e90000;
+}
+
+@media screen and (min-width: 970px) {
+  .hero_button_box_tab {
+    display: flex;
+    margin: 0 0 60px 0;
+  }
+}
+
+@media screen and (min-width: 1165px) {
+  .hero_button_box_tab {
+    display: none;
+  }
 }
 
 .hero_button {
@@ -60,15 +135,39 @@
   margin: 0 0 20px 0;
 }
 
-.hero_button:last-child {
+@media screen and (min-width: 970px) {
+  .hero_button {
+    width: 50%;
+    margin: 0 20px 0 0;
+  }
+}
+
+.hero_button_support {
   margin: 0 0 60px 0;
   background: none;
   color: #dfb85d;
+  width: 100%;
+  padding: 20px 0;
+  font-weight: 800;
+  border-radius: 4px;
   border: #dfb85d 1px solid;
+}
+
+@media screen and (min-width: 970px) {
+  .hero_button_support {
+    width: 50%;
+    margin: 0;
+  }
 }
 
 .about_padding {
   padding: 0 0 80px 0;
+}
+
+.about_sentence {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
 }
 
 .about_sentence:nth-child(1) {
@@ -78,16 +177,33 @@
 
 .about_sentence:nth-child(2) {
   background-color: rgba(255, 255, 255, 0.416);
-  background-image: url(../img/supports.jpg);
+  background-image: url(../img/hero-benefits.jpg);
 }
 
 .about_sentence:nth-child(3) {
+  background-color: rgba(255, 255, 255, 0.416);
+  background-image: url(../img/supports.jpg);
+}
+
+.about_sentence:nth-child(4) {
   background-color: rgba(255, 255, 255, 0.416);
   background-image: url(../img/join-today.jpg);
 }
 
 .about_sentence:not(:last-child) {
   margin: 0 0 20px 0;
+}
+
+@media screen and (min-width: 970px) {
+  .about_sentence:not(:last-child) {
+    margin: 0;
+  }
+}
+
+@media screen and (min-width: 970px) {
+  .about_sentence {
+    width: 100%;
+  }
 }
 
 .about_title {
@@ -104,6 +220,12 @@
   margin: 0 0 40px 0;
 }
 
+@media screen and (min-width: 970px) {
+  .about_content {
+    display: flex;
+  }
+}
+
 .about_supptitle {
   color: rgba(255, 255, 255, 0.5);
   font-size: 28px;
@@ -115,6 +237,12 @@
 
 .about_svg {
   transform: rotate(90deg);
+}
+
+@media screen and (min-width: 970px) {
+  .about_category {
+    display: none;
+  }
 }
 
 .about_category_sentence {
@@ -139,6 +267,18 @@
 
 .benefits_padding {
   padding: 0 0 80px 0;
+}
+
+.benefits_content {
+  width: 80%;
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 970px) {
+  .benefits_content {
+    width: 60%;
+    margin: 0 auto;
+  }
 }
 
 .benefits_supptitle {
@@ -172,6 +312,12 @@
 .benefits_link {
   display: flex;
   align-items: center;
+}
+
+@media screen and (min-width: 970px) {
+  .benefits_link {
+    font-size: 18px;
+  }
 }
 
 .benefits_link_text {

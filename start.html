@@ -16,6 +16,12 @@
       href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;800&display=swap"
       rel="stylesheet"
     />
+    <link
+      rel="icon"
+      href="favicon/favicon-16x16.png"
+      type="favicon/png"
+      sizes="16x16"
+    />
     <link href="./css/global.css" rel="stylesheet" />
     <link href="./css/normalize.css" rel="stylesheet" />
     <link href="./css/header.css" rel="stylesheet" />
@@ -232,7 +238,7 @@
                 ><input
                   value
                   size="40"
-                  type="tel"
+                  type="text"
                   name="your-licensed-year"
                   aria-invalid="false"
                   placeholder="How many years have you been licensed?"
@@ -246,7 +252,843 @@
                 <option value="Part-time">Part-time</option>
               </select>
               <p>What's your passion? Why did you get licensed?</p>
+              <select name="your-passion" aria-invalid="false">
+                <option value>Select</option>
+                <option value="Personal Investment">Personal Investment</option>
+                <option value="Assist buyers and sellers">
+                  Assist buyers and sellers
+                </option>
+                <option value="Property Management">Property Management</option>
+                <option value="To manage a brokerage someday">
+                  To manage a brokerage someday
+                </option>
+                <option value="Other">Other</option>
+              </select>
+              <label
+                ><input
+                  value
+                  size="40"
+                  type="text"
+                  name="your-how-many-closed"
+                  aria-invalid="false"
+                  placeholder="About how many transaction sides have you closed in your career?"
+              /></label>
+              <label
+                ><input
+                  value
+                  size="40"
+                  type="text"
+                  name="your-how-many-transactions"
+                  aria-invalid="false"
+                  placeholder="About how many transaction sides did you close in the last 12 months?"
+              /></label>
+              <p>
+                Assuming an average commission of $6000. <br />
+                How many transaction sides, at 100% commission, do you NEED to
+                support your current lifestyle?
+                <span
+                  >(don't forget your business expenses) Whatever you choose, I
+                  guarantee I can help you obtain it.</span
+                >
+              </p>
+              <select
+                name="your-choose-guarantee"
+                class=""
+                aria-invalid="false"
+              >
+                <option value="Select">Select</option>
+                <option value="5 ($30,000)">5 ($30,000)</option>
+                <option value="10 ($60,000)">10 ($60,000)</option>
+                <option value="15 ($90,000)">15 ($90,000)</option>
+                <option value="20 ($120,000)">20 ($120,000)</option>
+                <option value="25 ($150,000)">25 ($150,000)</option>
+                <option value="30+ ($180,000+)">30+ ($180,000+)</option>
+              </select>
+              <p>Do you have a personally branded website?</p>
+              <select name="your-brand-website" class="" aria-invalid="false">
+                <option value="Select">Select</option>
+                <option value="Yes">Yes</option>
+                <option value="No">No</option>
+              </select>
+              <input
+                type="url"
+                name="your-website-address"
+                value=""
+                size="40"
+                class=""
+                aria-invalid="false"
+                placeholder="If so, what is your web-site address? (e.g. http://www.yourdomain.com)"
+              />
+              <p>
+                What resources to you use to market for new business? (check all
+                that apply)
+              </p>
+              <span class=""
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-resources-new-business[]"
+                      value="FSBO's"
+                    /><span class="">FSBO's</span></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-resources-new-business[]"
+                      value="Newspaper"
+                    /><span class="">Newspaper</span></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-resources-new-business[]"
+                      value="TV"
+                    /><span class="">TV</span></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-resources-new-business[]"
+                      value="Radio"
+                    /><span class="">Radio</span></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-resources-new-business[]"
+                      value="Magazines"
+                    /><span class="">Magazines</span></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-resources-new-business[]"
+                      value="Sphere of Influence"
+                    /><span class="">Sphere of Influence</span></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-resources-new-business[]"
+                      value="Networking"
+                    /><span class="">Networking</span></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-resources-new-business[]"
+                      value="Referral from Past Clients"
+                    /><span class="">Referral from Past Clients</span></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-resources-new-business[]"
+                      value="First Time Home Buyer Seminars"
+                    /><span class=""
+                      >First Time Home Buyer Seminars</span
+                    ></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-resources-new-business[]"
+                      value="Post Card Campaigns (i.e. renters, just sold)"
+                    /><span class=""
+                      >Post Card Campaigns (i.e. renters, just sold)</span
+                    ></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-resources-new-business[]"
+                      value="Floor Duty"
+                    /><span class="">Floor Duty</span></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-resources-new-business[]"
+                      value="Internet"
+                    /><span class="">Internet</span></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-resources-new-business[]"
+                      value="Yard Sign Calls"
+                    /><span class="">Yard Sign Calls</span></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-resources-new-business[]"
+                      value="REO"
+                    /><span class="">REO</span></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-resources-new-business[]"
+                      value="Open Houses"
+                    /><span class="">Open Houses</span></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-resources-new-business[]"
+                      value="Short Sales"
+                    /><span class="">Short Sales</span></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-resources-new-business[]"
+                      value="Knocking Doors"
+                    /><span class="">Knocking Doors</span></label
+                  ></span
+                ><span class="last"
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-resources-new-business[]"
+                      value="Other"
+                    /><span class="">Other</span></label
+                  ></span
+                ></span
+              >
+              <p>
+                <strong
+                  >If you had a PROVEN strategy, how much could you afford on a
+                  monthly basis on marketing?</strong
+                >
+                <br />
+                Return On Investment starts in 90-120 days.
+              </p>
+              <select name="your-proven-strategy" class="" aria-invalid="false">
+                <option value="Select">Select</option>
+                <option value="$0">$0</option>
+                <option value="$100">$100</option>
+                <option value="$200">$200</option>
+                <option value="$300">$300</option>
+                <option value="$400">$400</option>
+                <option value="$500">$500</option>
+                <option value="$600">$600</option>
+                <option value="$700+">$700+</option>
+              </select>
+              <p>
+                Studies show that BIG Brand Brokerages are NOT important to
+                consumers. Are they important to you?
+              </p>
+              <span class=""
+                ><span class=""
+                  ><input
+                    type="checkbox"
+                    name="your-studies-show[]"
+                    value="Yes"
+                  /><span class="">Yes</span></span
+                ><span class=""
+                  ><input
+                    type="checkbox"
+                    name="your-studies-show[]"
+                    value="No"
+                  /><span class="">No</span></span
+                ></span
+              >
+              <p>
+                What do you like most about your current brokerage? (check all
+                that apply)
+              </p>
+              <span class=""
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-current-brokerage[]"
+                      value="Office Location"
+                    /><span class="">Office Location</span></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-current-brokerage[]"
+                      value="Leads"
+                    /><span class="">Leads</span></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-current-brokerage[]"
+                      value="Full-time Receptionist"
+                    /><span class="">Full-time Receptionist</span></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-current-brokerage[]"
+                      value="Training"
+                    /><span class="">Training</span></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-current-brokerage[]"
+                      value="Commission Splits"
+                    /><span class="">Commission Splits</span></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-current-brokerage[]"
+                      value="The Actual Broker"
+                    /><span class="">The Actual Broker</span></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-current-brokerage[]"
+                      value="Office Quality"
+                    /><span class="">Office Quality</span></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-current-brokerage[]"
+                      value="Brand Name"
+                    /><span class="">Brand Name</span></label
+                  ></span
+                ><span class="last"
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-current-brokerage[]"
+                      value="Other"
+                    /><span class="">Other</span></label
+                  ></span
+                ></span
+              >
+              <p>
+                Are there any services you wish your current brokerage could
+                provide you? (check all that apply)
+              </p>
+              <span class=""
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-services-you-wish[]"
+                      value="Better Commission Split"
+                    /><span class="">Better Commission Split</span></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-services-you-wish[]"
+                      value="Buyer/Seller Prospecting Tools"
+                    /><span class=""
+                      >Buyer/Seller Prospecting Tools</span
+                    ></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-services-you-wish[]"
+                      value="Immediate Broker Support"
+                    /><span class="">Immediate Broker Support</span></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-services-you-wish[]"
+                      value="Leads"
+                    /><span class="">Leads</span></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-services-you-wish[]"
+                      value="Office to Meet Prospects"
+                    /><span class="">Office to Meet Prospects</span></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-services-you-wish[]"
+                      value="Open Houses"
+                    /><span class="">Open Houses</span></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-services-you-wish[]"
+                      value="Personal Websites"
+                    /><span class="">Personal Websites</span></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-services-you-wish[]"
+                      value="Personalized Yard Signs"
+                    /><span class="">Personalized Yard Signs</span></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-services-you-wish[]"
+                      value="Reteriment Plan-401K"
+                    /><span class="">Reteriment Plan-401K</span></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-services-you-wish[]"
+                      value="Short Sale Expertise"
+                    /><span class="">Short Sale Expertise</span></label
+                  ></span
+                ><span class=""
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-services-you-wish[]"
+                      value="Useful Marketing Advice/Training"
+                    /><span class=""
+                      >Useful Marketing Advice/Training</span
+                    ></label
+                  ></span
+                ><span class="last"
+                  ><label
+                    ><input
+                      type="checkbox"
+                      name="your-services-you-wish[]"
+                      value="Other"
+                    /><span class="">Other</span></label
+                  ></span
+                ></span
+              >
+              <h4>
+                For my analysis, what is your fee agreement with your current
+                broker?
+              </h4>
+              <div class="">
+                <div class="">
+                  <p>
+                    <span class=""
+                      ><input
+                        type="text"
+                        name="your-commission-split"
+                        value=""
+                        size="40"
+                        class=""
+                        aria-invalid="false"
+                        placeholder="Commission Split (%)"
+                    /></span>
+                  </p>
+                </div>
+                <div class="">
+                  <p>
+                    <span class="wpcf7-form-control-wrap your-monthly-fees"
+                      ><input
+                        type="text"
+                        name="your-monthly-fees"
+                        value=""
+                        size="40"
+                        class=""
+                        aria-invalid="false"
+                        placeholder="Monthly Fees"
+                    /></span>
+                  </p>
+                </div>
+                <div style="clear: both"></div>
+              </div>
+              <div class="">
+                <div class="">
+                  <p>
+                    <span class="wpcf7-form-control-wrap your-annual-fees"
+                      ><input
+                        type="text"
+                        name="your-annual-fees"
+                        value=""
+                        size="40"
+                        class=""
+                        aria-invalid="false"
+                        placeholder="Annual Fees"
+                    /></span>
+                  </p>
+                </div>
+                <div class="">
+                  <p>
+                    <span class="wpcf7-form-control-wrap your-franchise-fee"
+                      ><input
+                        type="text"
+                        name="your-franchise-fee"
+                        value=""
+                        size="40"
+                        class=""
+                        aria-invalid="false"
+                        placeholder="Franchise Fee (%)"
+                    /></span>
+                  </p>
+                </div>
+                <div style="clear: both"></div>
+              </div>
+              <div class="">
+                <div class="">
+                  <p>
+                    <span class="wpcf7-form-control-wrap your-transaction-fee"
+                      ><input
+                        type="text"
+                        name="your-transaction-fee"
+                        value=""
+                        size="40"
+                        class=""
+                        aria-invalid="false"
+                        placeholder="Transaction Fee"
+                    /></span>
+                  </p>
+                </div>
+                <div class="">
+                  <p>
+                    <span class="wpcf7-form-control-wrap your-marketing-fee"
+                      ><input
+                        type="text"
+                        name="your-marketing-fee"
+                        value=""
+                        size="40"
+                        class=""
+                        aria-invalid="false"
+                        placeholder="Marketing Fee"
+                    /></span>
+                  </p>
+                </div>
+                <div style="clear: both"></div>
+              </div>
+              <div class="">
+                <div class="">
+                  <p>
+                    <span class="wpcf7-form-control-wrap your-insurance-fee"
+                      ><input
+                        type="text"
+                        name="your-insurance-fee"
+                        value=""
+                        size="40"
+                        class=""
+                        aria-invalid="false"
+                        placeholder="E&amp;O Insurance Fee"
+                    /></span>
+                  </p>
+                </div>
+                <div class="">
+                  <p>
+                    <span class="wpcf7-form-control-wrap your-technology-fee"
+                      ><input
+                        type="text"
+                        name="your-technology-fee"
+                        value=""
+                        size="40"
+                        class=""
+                        aria-invalid="false"
+                        placeholder="Technology Fee"
+                    /></span>
+                  </p>
+                </div>
+                <div style="clear: both"></div>
+              </div>
+              <div class="">
+                <div class="">
+                  <p>
+                    <span
+                      class="wpcf7-form-control-wrap your-broker-administrative"
+                      ><input
+                        type="text"
+                        name="your-broker-administrative"
+                        value=""
+                        size="40"
+                        class=""
+                        aria-invalid="false"
+                        placeholder="Broker Administrative Fee"
+                    /></span>
+                  </p>
+                </div>
+                <div class="">
+                  <p>
+                    <span class="wpcf7-form-control-wrap your-misc-fees"
+                      ><input
+                        type="text"
+                        name="your-misc-fees"
+                        value=""
+                        size="40"
+                        class=""
+                        aria-invalid="false"
+                        placeholder="Other/Misc. Fees"
+                    /></span>
+                  </p>
+                </div>
+                <div style="clear: both"></div>
+              </div>
+              <p>Have you ever considered managing a brokerage of your own?</p>
+              <select
+                name="your-consider-brokarage-managed"
+                class=""
+                aria-invalid="false"
+              >
+                <option value="Select">Select</option>
+                <option value="Yes">Yes</option>
+                <option value="No">No</option>
+              </select>
+              <p>If so, how many agents would you like to manage?</p>
+              <select
+                name="your-consider-brokarage"
+                class=""
+                aria-invalid="false"
+              >
+                <option value="Select">Select</option>
+                <option value="Just Me">Just Me</option>
+                <option value="A few">A few</option>
+                <option value="5-10">5-10</option>
+                <option value="25">25</option>
+                <option value="50">50</option>
+                <option value="Sky's the Limit">Sky's the Limit</option>
+              </select>
+              <input
+                type="text"
+                name="captcha-143"
+                value=""
+                size="40"
+                class=""
+                autocomplete="off"
+                aria-invalid="false"
+                placeholder="Enter the captcha code from above*"
+              />
+              <button type="submit">SEND MESSAGE</button>
             </form>
+          </div>
+        </div>
+      </section>
+      <section>
+        <div class="more_background">
+          <div class="container">
+            <div class="more_padding">
+              <ul>
+                <li class="footer_sentence">
+                  <span class="more_title">CONTACT INFORMATION</span>
+                  <ul class="footer_contacts_background">
+                    <li class="more_contacts_list">
+                      <a
+                        href="mailto:admin@nrgadmin.com"
+                        class="footer_contacts"
+                        ><span class="footer_svg"
+                          ><img src="./icon/mail.svg" alt="Mobile menu" /></span
+                        >Email: admin@nrgadmin.com</a
+                      >
+                    </li>
+                    <li class="more_contacts_list">
+                      <a href="tel:(651) 330-8000" class="footer_contacts"
+                        ><span class="footer_svg"
+                          ><img src="./icon/tel.svg" alt="Mobile menu" /></span
+                        >Call: (651) 330-8000
+                        <span class="footer_svg_accent">9-5 CST</span></a
+                      >
+                    </li>
+                    <li class="more_contacts_list">
+                      <a href="#" class="footer_contacts"
+                        ><span class="footer_svg"
+                          ><img src="./icon/adress.svg" alt="Mobile menu"
+                        /></span>
+                        333 N Washington Ave #300, Minneapolis, MN 55401</a
+                      >
+                    </li>
+                  </ul>
+                  <button type="button" class="technology_button">
+                    CONTACT US TODAY
+                  </button>
+                </li>
+                <li class="footer_sentence postcards_background">
+                  <span class="more_title">POSTCARDS</span>
+                  <span>
+                    <img class="postcards_img" src="./img/podcasts.png" alt=""
+                  /></span>
+                </li>
+                <li class="footer_sentence">
+                  <span class="more_title">RECENT FROM OUR BLOG</span>
+                  <ul>
+                    <li class="footer_list">
+                      <a href="#" class="footer_link">
+                        <span class="footer_link_text"
+                          ><p>BEST REAL ESTATE BROKER: HOW TO FIND ONE</p>
+                          <time datetime="2020-01-21T19:59:26+00:00"
+                            >January 21, 2020</time
+                          ></span
+                        >
+                      </a>
+                    </li>
+                    <li class="footer_list">
+                      <a href="#" class="footer_link">
+                        <span class="footer_link_text"
+                          ><p>
+                            100 PERCENT COMMISSION PROGRAM IS REAL WITH NATIONAL
+                            REALTY GUILD
+                          </p>
+                          <time datetime="2019-11-15T18:26:03+00:00"
+                            >November 15, 2019</time
+                          ></span
+                        >
+                      </a>
+                    </li>
+                    <li class="footer_list">
+                      <a href="#" class="footer_link">
+                        <span class="footer_link_text"
+                          ><p>
+                            National Realty Guild: An Insight to its 100 Percent
+                            Commission Program and the Inspiration Behind It
+                          </p>
+                          <time datetime="2019-01-31T05:24:05+00:00"
+                            >January 31, 2019</time
+                          ></span
+                        >
+                      </a>
+                    </li>
+                    <li class="footer_list">
+                      <a href="#" class="footer_link">
+                        <span class="footer_link_text"
+                          ><p>What Makes A Great Realtor</p>
+                          <time datetime="2018-09-07T19:02:02+00:00"
+                            >September 7, 2018</time
+                          ></span
+                        >
+                      </a>
+                    </li>
+                  </ul>
+                </li>
+                <li class="footer_sentence">
+                  <span class="more_title">USEFUL LINKS</span>
+                  <nav>
+                    <ul>
+                      <li class="footer_sentence_list">
+                        <a href="#" class="footer_sentence_link"
+                          ><span class="footer_svg"
+                            ><img
+                              src="./icon/arrow.svg"
+                              alt="Mobile menu"
+                              class="img"
+                          /></span>
+                          <p>Home</p></a
+                        >
+                      </li>
+                      <li class="footer_sentence_list">
+                        <a href="#" class="footer_sentence_link"
+                          ><span class="footer_svg"
+                            ><img
+                              src="./icon/arrow.svg"
+                              alt="Mobile menu"
+                              class="img"
+                          /></span>
+                          <p>NRG Agent Benefits</p></a
+                        >
+                      </li>
+                      <li class="footer_sentence_list">
+                        <a href="#" class="footer_sentence_link"
+                          ><span class="footer_svg"
+                            ><img
+                              src="./icon/arrow.svg"
+                              alt="Mobile menu"
+                              class="img"
+                          /></span>
+                          <p>Events</p></a
+                        >
+                      </li>
+                      <li class="footer_sentence_list">
+                        <a href="#" class="footer_sentence_link"
+                          ><span class="footer_svg"
+                            ><img
+                              src="./icon/arrow.svg"
+                              alt="Mobile menu"
+                              class="img"
+                          /></span>
+                          <p>Sales Growth</p></a
+                        >
+                      </li>
+                      <li class="footer_sentence_list">
+                        <a href="#" class="footer_sentence_link"
+                          ><span class="footer_svg"
+                            ><img
+                              src="./icon/arrow.svg"
+                              alt="Mobile menu"
+                              class="img"
+                          /></span>
+                          <p>Support</p></a
+                        >
+                      </li>
+                      <li class="footer_sentence_list">
+                        <a href="#" class="footer_sentence_link"
+                          ><span class="footer_svg"
+                            ><img
+                              src="./icon/arrow.svg"
+                              alt="Mobile menu"
+                              class="img"
+                          /></span>
+                          <p>Office Locations</p></a
+                        >
+                      </li>
+                      <li class="footer_sentence_list">
+                        <a href="#" class="footer_sentence_link"
+                          ><span class="footer_svg"
+                            ><img
+                              src="./icon/arrow.svg"
+                              alt="Mobile menu"
+                              class="img"
+                          /></span>
+                          <p>Contact Us</p></a
+                        >
+                      </li>
+                      <li class="footer_sentence_list">
+                        <a href="#" class="footer_sentence_link"
+                          ><span class="footer_svg"
+                            ><img
+                              src="./icon/arrow.svg"
+                              alt="Mobile menu"
+                              class="img"
+                          /></span>
+                          <p>Privacy Policy</p></a
+                        >
+                      </li>
+                    </ul>
+                  </nav>
+                </li>
+              </ul>
+            </div>
           </div>
         </div>
       </section>

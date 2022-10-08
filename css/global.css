@@ -48,6 +48,28 @@
   }
 }
 
+.video {
+  width: 100%;
+}
+
+@media screen and (min-width: 425px) {
+  .video {
+    height: 220px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .video {
+    height: 420px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .video {
+    height: 560px;
+  }
+}
+
 .modal {
   background: #000;
   display: none;
