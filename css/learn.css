@@ -85,7 +85,7 @@
 }
 
 .resource_sentence_box {
-  margin: 0 0 20px 0;
+  height: max-content;
 }
 
 @media screen and (min-width: 970px) {
@@ -106,24 +106,15 @@
 .resource_sentence {
   display: flex;
   flex-direction: column;
-  background-color: #1e1e1eca;
-  padding: 60px 15px;
   border-radius: 8px;
 }
 
 @media screen and (min-width: 970px) {
   .resource_sentence {
-    padding: 60px 30px;
-  }
-}
-
-@media screen and (min-width: 970px) {
-  .resource_sentence {
-    width: 40%;
+    width: 100%;
   }
 
   .resource_sentence:last-child {
-    width: 100%;
     margin: 0;
   }
 }
@@ -235,7 +226,6 @@
 
 @media screen and (min-width: 970px) {
   .technology_button_get {
-    width: 70%;
     margin: 0 auto 0 0;
   }
 }
@@ -293,7 +283,125 @@
   font-weight: 400;
   text-transform: capitalize;
   line-height: 24px;
+  margin: 0 0 60px 0;
+  text-align: center;
+}
+
+.resource_cicle_sentence_supptext_final {
+  color: #dfb85d;
+  font-size: 24px;
+  font-weight: 800;
+}
+
+.form_input_name {
+  border: solid 2px rgb(255 255 255 / 30%);
+  border-radius: 4px;
+  padding: 10px;
+  color: #fff;
+  margin: 0 0 30px 0;
+  width: -webkit-fill-available;
+}
+
+.form_input_select {
+  border: solid 2px rgb(255 255 255 / 30%);
+  border-radius: 4px;
+  padding: 10px;
+  color: #fff;
+  margin: 0 0 30px 0;
+  width: -webkit-fill-available;
+}
+
+.form_title {
+  line-height: 1.5;
+  color: #dfb85d;
+  margin: 0 0 30px 0;
+}
+
+.form_text {
+  line-height: 1.5;
+  color: rgb(255 255 255 / 70%);
+}
+
+.form_checkbox_box {
+  display: flex;
+  flex-direction: column;
+  margin: 0 0 30px 0;
+}
+
+.form_checkbox {
+  padding: 5px;
+}
+
+.form_button {
+  background-color: #e90000;
+  color: #fff;
+  width: 100%;
+  padding: 15px 0;
+  font-weight: 800;
+  border-radius: 4px;
+  margin: 0 auto;
+  display: block;
+  text-transform: uppercase;
+}
+
+.form_box {
+  background-color: #1e1e1eca;
+  padding: 60px 30px;
   margin: 0 0 20px 0;
+  border-radius: 4px;
+}
+
+.about_supptitle {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 28px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 0 40px 0;
+}
+
+.about_svg {
+  transform: rotate(90deg);
+}
+
+.resource_cicle_sentence_final {
+  display: flex;
+  flex-direction: column;
+  background-color: #000;
+  padding: 60px 80px 40px 80px;
+  border-radius: 8px;
+  margin: 0 0 10px 0;
+}
+.resource_cicle_sentence_box_img_final {
+  margin: 0 auto 20px auto;
+}
+
+@media screen and (min-width: 970px) {
+  .benefits_supptitle {
+    font-size: 58px;
+    margin: 0;
+  }
+}
+.resource_cicle_sentence_img_final {
+  width: 100px;
+}
+.resource_cicle_sentence_box_title_final {
+  color: #fff;
+  text-align: center;
+  font-weight: 800;
+  text-transform: uppercase;
+  font-size: 18px;
+}
+.resource_cicle_sentence_supptitle_final {
+  margin: 0;
+}
+.resource_cicle_sentence_text_final {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 400;
+  text-transform: capitalize;
+  line-height: 24px;
+  margin: 0 0 60px 0;
   text-align: center;
 }
 
