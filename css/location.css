@@ -14,7 +14,13 @@
 }
 
 .location_padding {
-  padding: 40px 0 0 0;
+  padding: 40px 0;
+}
+
+@media screen and (min-width: 970px) {
+  .location_padding {
+    padding: 120px 0 40px 0;
+  }
 }
 
 .location_supptitle {
@@ -33,8 +39,26 @@
   margin: 0 0 40px 0;
 }
 
+@media screen and (min-width: 768px) {
+  .location_button_box {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+}
+
 .location_sentence {
   margin: 0 0 10px 0;
+}
+
+@media screen and (min-width: 768px) {
+  .location_sentence {
+    display: flex;
+  }
+
+  .location_sentence {
+    margin: 5px;
+  }
 }
 
 .location_button {
@@ -46,6 +70,12 @@
   border-radius: 4px;
   margin: 0 auto;
   display: block;
+}
+
+@media screen and (min-width: 768px) {
+  .location_button {
+    padding: 15px 30px;
+  }
 }
 
 .office_title {
@@ -97,7 +127,6 @@
 
 .office_video {
   width: 100%;
-  height: 168px;
   margin: 0 0 40px 0;
   display: flex;
 }
