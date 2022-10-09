@@ -274,9 +274,9 @@
   margin: 0 auto;
 }
 
-@media screen and (min-width: 970px) {
+@media screen and (min-width: 768px) {
   .benefits_content {
-    width: 60%;
+    width: 50%;
     margin: 0 auto;
   }
 }
@@ -326,9 +326,15 @@
 }
 
 .benefits_img {
-  width: 100px;
+  width: 50px;
   opacity: 20%;
   margin: 0 10px 0 0;
+}
+
+@media screen and (min-width: 768px) {
+  .benefits_img {
+    width: 100px;
+  }
 }
 
 .benefits_title {

@@ -246,6 +246,10 @@
   display: block;
 }
 
+.sales_desktop_menu {
+  display: none;
+}
+
 @media screen and (min-width: 970px) {
   .sales_desktop {
     display: flex;
@@ -254,6 +258,7 @@
 
   .sales_desktop_menu {
     width: 28.5%;
+    display: block;
   }
 }
 
