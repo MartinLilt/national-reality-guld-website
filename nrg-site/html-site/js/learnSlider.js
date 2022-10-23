@@ -1,6 +1,6 @@
 let slideIndex = 0;
 
-window.innerWidth < 970 ? null : showSlides();
+window.innerWidth < 0 && window.innerWidth < 0 ? null : showSlides();
 
 function showSlides() {
   console.log("action", window.innerWidth);
@@ -19,5 +19,5 @@ function showSlides() {
   }
   slides[slideIndex - 1].style.display = "block";
   dots[slideIndex - 1].className += " active";
-  setTimeout(showSlides, 5000); // Change image every 2 seconds
+  setTimeout(showSlides, 5000);
 }

@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US" class="no-js">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+		<meta name="theme-color" content="#dd3333">	<link rel="profile" href="https://gmpg.org/xfn/11">
+	        <script type="text/javascript">
+            if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+                var originalAddEventListener = EventTarget.prototype.addEventListener,
+                    oldWidth = window.innerWidth;
+
+                EventTarget.prototype.addEventListener = function (eventName, eventHandler, useCapture) {
+                    if (eventName === "resize") {
+                        originalAddEventListener.call(this, eventName, function (event) {
+                            if (oldWidth === window.innerWidth) {
+                                return;
+                            }
+                            oldWidth = window.innerWidth;
+                            if (eventHandler.handleEvent) {
+                                eventHandler.handleEvent.call(this, event);
+                            }
+                            else {
+                                eventHandler.call(this, event);
+                            };
+                        }, useCapture);
+                    }
+                    else {
+                        originalAddEventListener.call(this, eventName, eventHandler, useCapture);
+                    };
+                };
+            };
+        </script>
+		<title>Page not found &#8211; National Realty Guild</title>
+<meta name="robots" content="max-image-preview:large">
+<link rel="dns-prefetch" href="//platform-api.sharethis.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="National Realty Guild &raquo; Feed" href="https://joinnrg.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="National Realty Guild &raquo; Comments Feed" href="https://joinnrg.com/comments/feed/">
+<script>wppaDebugCounter=0,wppaIsChrome=!!window.chrome && (!!window.chrome.webstore || !!window.chrome.runtime),wppaOvlActivePanorama=0,wppaFullValign=[],wppaFullHalign=[],wppaFullFrameDelta=[],wppaAutoColumnWidth=[],wppaAutoColumnFrac=[],wppaFadeInAfterFadeOut=false,wppaPreambule=[],wppaThumbnailPitch=[],wppaFilmStripLength=[],wppaFilmStripMargin=[],wppaFilmStripAreaDelta=[],wppaIsMini=[],wppaPortraitOnly=[],wppaLightBox=[],wppaSlideInitRunning=[],wppaSlidePause=[],wppaSlideBlank=[],wppaFilmPageSize=[],wppaAspectRatio=[],wppaFullSize=[],wppaLightboxSingle=[],wppaSiteUrl="http://joinnrg.com",wppaMasonryCols=[],wppaVideoPlaying=[],wppaAudioPlaying=[],wppaHis=0,wppaStartHtml=[],wppaCanAjaxRender=false,wppaCanPushState=false,wppaMaxOccur=0,wppaFirstOccur=0,wppaUsePhotoNamesInUrls=false,wppaShareHideWhenRunning=false,wppaCommentRequiredAfterVote=true,wppaTopMoc=0,wppaColWidth=[],wppaMCRWidth=[],wppaFotomotoHideWhenRunning=false,wppaFotomotoMinWidth=400,wppaPhotoView=[],wppaBackgroundColorImage="",wppaPopupLinkType="",wppaPopupOnclick=[],wppaThumbTargetBlank=false,wppaRel="rel",wppaEditPhotoWidth="960",wppaThemeStyles="",wppaStickyHeaderHeight=0,wppaModalBgColor="#ffffff",wppaBoxRadius=0,wppaUploadEdit="none",wppaSlideOffset=[],wppaThumbPage=[],wppaThumbPageSize=0,wppaCoverImageResponsive=[],wppaSearchBoxSelItems=[],wppaSlideWrap=[],wppaHideRightClick=false,wppaGeoZoom=10,wppaAreaMaxFrac=1.0,wppaNiceScroll=false,wppaIconSizeNormal="default",wppaIconSizeStars=24,wppaFilmInit=[],wppaResizeEndDelay=200,wppaScrollEndDelay=200,wppaArtmonkeyFileNotSource=false,wppaRequestInfoDialogText="Please specify your question",wppaGlobalFsIconSize=32,wppaFsFillcolor="#999999",wppaFsBgcolor="transparent",wppaSlideLinkEqual=false,_wppaId=[],_wppaRealId=[],_wppaAvg=[],_wppaDisc=[],_wppaMyr=[],_wppaVRU=[],_wppaLinkUrl=[],_wppaLinkTitle=[],_wppaLinkTarget=[],_wppaCommentHtml=[],_wppaIptcHtml=[],_wppaExifHtml=[],_wppaToTheSame=false,_wppaSlides=[],_wppaNames=[],_wppaFilmThumbTitles=[],_wppaFullNames=[],_wppaDsc=[],_wppaOgDsc=[],_wppaCurIdx=[],_wppaNxtIdx=[],_wppaTimeOut=[],_wppaSSRuns=[],_wppaFg=[],_wppaTP=[],_wppaIsBusy=[],_wppaFirst=[],_wppaVoteInProgress=false,_wppaTextDelay=800,_wppaUrl=[],_wppaSkipRated=[],_wppaLbTitle=[],_wppaStateCount=0,_wppaDidGoto=[],_wppaShareUrl=[],_wppaShareHtml=[],_wppaFilmNoMove=[],_wppaHiresUrl=[],_wppaIsVideo=[],_wppaVideoHtml=[],_wppaAudioHtml=[],_wppaVideoNatWidth=[],_wppaVideoNatHeight=[],_wppaWaitTexts=[],_wppaImageAlt=[],_wppaLastIdx=[],_wppaStopping=[],_wppaFilename=[],_wppaLat=[],_wppaLon=[],__wppaOverruleRun=false,wppaOvlIdx=0,wppaOvlFirst=true,wppaOvlKbHandler="",wppaOvlSizeHandler="",wppaOvlPadTop=5,wppaOvlRunning=false,wppaOvlVideoPlaying=false,wppaOvlAudioPlaying=false,wppaOvlShowLegenda=true,wppaOvlShowStartStop=true,wppaOvlRadius=0,wppaOvlBorderWidth=16,wppaOvlOpen=false,wppaOvlClosing=false,wppaThumbSize=100,wppaTfMargin=4,wppaZoomData=[],wppaSphericData=[],wppaOvlTxtHeight=36,wppaOvlOpacity=0.8,wppaOvlOnclickType="none",wppaOvlTheme="black",wppaOvlAnimSpeed=300,wppaOvlSlideSpeed=3000,wppaOvlFontFamily="Helvetica",wppaOvlFontSize="10",wppaOvlFontColor="",wppaOvlFontWeight="bold",wppaOvlLineHeight="12",wppaOvlShowCounter=true,wppaOvlIsVideo=false,wppaShowLegenda="",wppaOvlFsPhotoId=0,wppaPhotoId=0,wppaOvlVideoStart=false,wppaOvlAudioStart=false,wppaOvlIsSingle=false,wppaLastIptc="",wppaLastExif="",wppaIsIpad=false,wppaSvgFillcolor="gray",wppaSvgBgcolor="transparent",wppaSvgCornerStyle="light",wppaCoverSpacing=8,wppaEasingSlide="swing",wppaEasingLightbox="swing",wppaEasingPopup="swing",wppaEasingDefault="swing",wppaIsVideo=false,wppaHasAudio=false,wppaOvlIsPdf=false,wppaOvlImgs=[],wppaKbHandlerInstalled=false,wppaOvlCurIdx=0,wppaOvlSvgInverse=false,wppaOvlHasPanoramas=false,wppaGlobalOvlPanoramaId=0,wppaOvlBrowseOnClick=false,wppaOvlGlobal=false,wppaWppaOverlayActivated=false,wppaOvlTimer=0,wppaSavedContainerWidth=0,wppaSavedContainerHeight=0,wppaTriggerElementID=null,wppaFingerCount=0,wppaStartX=0,wppaStartY=0,wppaCurX=0,wppaCurY=0,wppaDeltaX=0,wppaDeltaY=0,wppaHorzDiff=0,wppaVertDiff=0,wppaMinLength=72,wppaSwipeLength=0,wppaSwipeAngle=null,wppaSwipeDirection=null,wppaSwipeOnLightbox=false,wppaSwipeMocc=0,wppaMobileTimeStart=0,wppa_moveup_url="#",wppa_import="Import",wppa_update="Update",wppaUploadToThisAlbum="Upload to this album",wppaCloseText="Close!",wppaCropper=[],wppaImageMagickDefaultAspect="NaN",wppaImageDirectory="http://joinnrg.com/wp-content/plugins/wp-photo-album-plus/img/",wppaWppaUrl="http://joinnrg.com/wp-content/plugins/wp-photo-album-plus",wppaIncludeUrl="http://joinnrg.com/wp-includes",wppaAjaxUrl="http://joinnrg.com/wppaajax",wppaUploadUrl="http://joinnrg.com/wp-content/uploads/wppa",wppaIsIe=false,wppaIsSafari=false,wppaSlideshowNavigationType="icons",wppaAudioHeight=24,wppaFilmThumbTitle="Double click to start/stop slideshow running",wppaClickToView="Click to view",wppaLang="en",wppaVoteForMe="Vote for me!",wppaVotedForMe="Voted for me",wppaDownLoad="Download",wppaSlideShow="Slideshow",wppaPhoto="Photo",wppaOf="of",wppaNextPhoto="Next photo",wppaPreviousPhoto="Previous photo",wppaNextP="Next",wppaPrevP="Prev.",wppaAvgRating="Average&nbsp;rating",wppaMyRating="My&nbsp;rating",wppaAvgRat="Avg.",wppaMyRat="Mine",wppaDislikeMsg="You marked this image as inappropriate.",wppaStart="Start",wppaStop="Stop",wppaPleaseName="Please enter your name",wppaPleaseEmail="Please enter a valid email address",wppaPleaseComment="Please enter a comment",wppaProcessing="Processing...",wppaDone="Done!",wppaUploadFailed="Upload failed",wppaServerError="Server error.",wppaGlobalFsIconSize="32",wppaFsFillcolor="#999999",wppaFsBgcolor="transparent",wppaFsPolicy="lightbox",wppaNiceScroll=false,wppaNieScrollOpts={cursorwidth:'8px',cursoropacitymin:0.4,cursorcolor:'#777777',cursorborder:'none',cursorborderradius:'6px',autohidemode:'leave',nativeparentscrolling:false,preservenativescrolling:false,bouncescroll:false,smoothscroll:true,cursorborder:'2px solid transparent',horizrailenabled:false,},wppaVersion="8.2.04.009",wppaDebug=false,wppaBackgroundColorImage="#eeeeee",wppaPopupLinkType="photo",wppaAnimationType="fadeover",wppaAnimationSpeed=800,wppaThumbnailAreaDelta=14,wppaTextFrameDelta=181,wppaBoxDelta=14,wppaSlideShowTimeOut=2500,wppaFilmShowGlue=true,wppaMiniTreshold=500,wppaRatingOnce=false,wppaHideWhenEmpty=false,wppaBGcolorNumbar="#cccccc",wppaBcolorNumbar="#cccccc",wppaBGcolorNumbarActive="#333333",wppaBcolorNumbarActive="#333333",wppaFontFamilyNumbar="",wppaFontSizeNumbar="px",wppaFontColorNumbar="#777777",wppaFontWeightNumbar="normal",wppaFontFamilyNumbarActive="",wppaFontSizeNumbarActive="px",wppaFontColorNumbarActive="#777777",wppaFontWeightNumbarActive="bold",wppaNumbarMax="10",wppaNextOnCallback=false,wppaStarOpacity=0.2,wppaEmailRequired="required",wppaSlideBorderWidth=0,wppaAllowAjax=true,wppaUsePhotoNamesInUrls=false,wppaThumbTargetBlank=false,wppaRatingMax=5,wppaRatingDisplayType="graphic",wppaRatingPrec=2,wppaStretch=false,wppaMinThumbSpace=4,wppaThumbSpaceAuto=true,wppaMagnifierCursor="magnifier-small.png",wppaArtMonkyLink="none",wppaAutoOpenComments=true,wppaUpdateAddressLine=true,wppaSlideSwipe=true,wppaMaxCoverWidth=1024,wppaSlideToFullpopup=false,wppaComAltSize=75,wppaBumpViewCount=true,wppaBumpClickCount=false,wppaShareHideWhenRunning=false,wppaFotomoto=false,wppaArtMonkeyButton=true,wppaFotomotoHideWhenRunning=false,wppaCommentRequiredAfterVote=false,wppaFotomotoMinWidth=400,wppaShortQargs=true,wppaOvlHires=false,wppaSlideVideoStart=false,wppaSlideAudioStart=false,wppaRel="data-rel",wppaOvlRadius=12,wppaOvlBorderWidth=8,wppaEditPhotoWidth="960",wppaThemeStyles="",wppaStickyHeaderHeight=0,wppaRenderModal=false,wppaModalQuitImg="url(http://joinnrg.com/wp-content/plugins/wp-photo-album-plus/img/smallcross-black.gif )",wppaBoxRadius="6",wppaModalBgColor="#ffffff",wppaUploadEdit="-none-",wppaSvgFillcolor="#666666",wppaSvgBgcolor="transparent",wppaOvlSvgFillcolor="#999999",wppaOvlSvgBgcolor="transparent",wppaSvgCornerStyle="medium",wppaHideRightClick=false,wppaGeoZoom=10,wppaLazyLoad=false,wppaAreaMaxFrac=0,wppaIconSizeNormal="default",wppaIconSizeSlide="default",wppaResponseSpeed=0,wppaExtendedResizeCount=0,wppaExtendedResizeDelay=1000,wppaCoverSpacing=8,wppaFilmonlyContinuous=false,wppaNoAnimateOnMobile=false,wppaAjaxScroll=true,wppaThumbSize=100,wppaTfMargin=4,wppaArtmonkeyFileNotSource=false,wppaRequestInfoDialogText="Please specify your question",wppaThumbAspect=0.75,wppaOvlTxtHeight="auto",wppaOvlOpacity=0.8,wppaOvlOnclickType="none",wppaOvlTheme="black",wppaOvlAnimSpeed=300,wppaOvlSlideSpeed=5000,wppaVer4WindowWidth=800,wppaVer4WindowHeight=600,wppaOvlShowCounter=true,wppaOvlFontSize="10",wppaOvlFontWeight="bold",wppaOvlLineHeight="12",wppaOvlVideoStart=true,wppaOvlAudioStart=true,wppaOvlShowStartStop=true,wppaIsMobile=false,wppaIsIpad=false,wppaOvlIconSize="32px",wppaOvlBrowseOnClick=false,wppaOvlGlobal=false,wppaPhotoDirectory="http://joinnrg.com/wp-content/uploads/wppa/",wppaThumbDirectory="http://joinnrg.com/wp-content/uploads/wppa/thumbs/",wppaTempDirectory="http://joinnrg.com/wp-content/uploads/wppa/temp/",wppaFontDirectory="http://joinnrg.com/wp-content/uploads/wppa/fonts/",wppaNoPreview="No Preview available",wppaUIERR="Unimplemented virtual album",wppaTxtProcessing="Processing...",wppaTxtDone="Done!",wppaTxtErrUnable="ERROR: unable to upload files.",wppaOutputType="-none-",wppaTextSlideshow="WPPA+ Slideshow",wppaTextSimpleSlideshow="WPPA Simple slideshow",wppaTextEnterWidgetCaption="Enter widget caption",wppaTextSelectAlbum="Select the album for the slideshow",wppaTextAddFilmstrip="Add filmstrip",wppaTextCacheThisBlock="Cache this block",wppaTextCacheUsesSmart="Cache uses WPPA embedded smart cache",wppaTextCorrShortcode="Corresponding shortcode",wppaTextLastAlbumAdded="--- The last added album ---",wppaTextAlbumSelect="--- A selectionbox with all albums the user may upload to ---",wppaTextUploadForm="WPPA Upload form",wppaTextUploadHelp="If you want to limit uploads to a specific album, select it here",wppaTextLoginOnly="Show to logged in users only?",wppaTextAdminOnly="Show to admin only?",wppaTextUpload="WPPA+ upload",wppaTextPotd="WPPA+ Potd",wppaTextPhotoOfTheDay="WPPA Photo of the day";varwppaShortcodeTemplate="&lt;div style=&quot;font-size:0;line-height:0&quot;&gt;&lt;img id=&quot;ph-11-100&quot;src=&quot;http://joinnrg.com/wp-content/uploads/wppa/11.jpg?ver=1&quot; alt=&quot;slideshowFrance3_gwa.jpg&quot; title=&quot;slideshowFrance3_gwa.jpg&quot; style=&quot;width:100%;margin:0;&quot;alt=&quot;11&quot;/&gt;&lt;/div&gt;";wppaShortcodeTemplateId="11.jpg";</script><script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/joinnrg.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="http://joinnrg.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.2" type="text/css" media="all">
+<style id="wp-block-library-theme-inline-css" type="text/css">
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #FFF;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--accent: #dd3333;--wp--preset--color--dark-gray: #111;--wp--preset--color--light-gray: #767676;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel="stylesheet" id="contact-form-7-css" href="http://joinnrg.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.2" type="text/css" media="all">
+<link rel="stylesheet" id="easingslider-css" href="http://joinnrg.com/wp-content/plugins/easing-slider/assets/css/public.min.css?ver=3.0.8" type="text/css" media="all">
+<link rel="stylesheet" id="wppa_style-css" href="http://joinnrg.com/wp-content/plugins/wp-photo-album-plus/theme/wppa-style.css?ver=220812-152836" type="text/css" media="all">
+<style id="wppa_style-inline-css" type="text/css">
+
+.wppa-box {	border-style: solid; border-width:1px;border-radius:6px; -moz-border-radius:6px;margin-bottom:8px;background-color:#eeeeee;border-color:#cccccc; }
+.wppa-mini-box { border-style: solid; border-width:1px;border-radius:2px;border-color:#cccccc; }
+.wppa-cover-box {  }
+.wppa-cover-text-frame {  }
+.wppa-box-text {  }
+.wppa-box-text, .wppa-box-text-nocolor { font-weight:normal; }
+.wppa-thumb-text { font-weight:normal; }
+.wppa-nav-text { font-weight:normal; }
+.wppa-img { background-color:#eeeeee; }
+.wppa-title { font-weight:bold; }
+.wppa-fulldesc { font-weight:normal; }
+.wppa-fulltitle { font-weight:normal; }
+</style>
+<link rel="stylesheet" id="dt-web-fonts-css" href="https://fonts.googleapis.com/css?family=Roboto:400,500,600,700" type="text/css" media="all">
+<link rel="stylesheet" id="dt-main-css" href="http://joinnrg.com/wp-content/themes/dt-the7/css/main.min.css?ver=10.12.0" type="text/css" media="all">
+<style id="dt-main-inline-css" type="text/css">
+body #load {
+  display: block;
+  height: 100%;
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+  z-index: 9901;
+  opacity: 1;
+  visibility: visible;
+  transition: all .35s ease-out;
+}
+.load-wrap {
+  width: 100%;
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  text-align: center;
+  display: -ms-flexbox;
+  display: -ms-flex;
+  display: flex;
+  -ms-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-flow: column wrap;
+  flex-flow: column wrap;
+  -ms-flex-pack: center;
+  -ms-justify-content: center;
+  justify-content: center;
+}
+.load-wrap > svg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+#load {
+  background: var(--the7-elementor-beautiful-loading-bg,#ffffff);
+  --the7-beautiful-spinner-color2: var(--the7-beautiful-spinner-color,#dd3333);
+}
+
+</style>
+<link rel="stylesheet" id="the7-font-css" href="http://joinnrg.com/wp-content/themes/dt-the7/fonts/icomoon-the7-font/icomoon-the7-font.min.css?ver=10.12.0" type="text/css" media="all">
+<link rel="stylesheet" id="the7-awesome-fonts-css" href="http://joinnrg.com/wp-content/themes/dt-the7/fonts/FontAwesome/css/all.min.css?ver=10.12.0" type="text/css" media="all">
+<link rel="stylesheet" id="the7-custom-scrollbar-css" href="http://joinnrg.com/wp-content/themes/dt-the7/lib/custom-scrollbar/custom-scrollbar.min.css?ver=10.12.0" type="text/css" media="all">
+<link rel="stylesheet" id="the7-wpbakery-css" href="http://joinnrg.com/wp-content/themes/dt-the7/css/wpbakery.min.css?ver=10.12.0" type="text/css" media="all">
+<link rel="stylesheet" id="the7-core-css" href="http://joinnrg.com/wp-content/plugins/dt-the7-core/assets/css/post-type.min.css?ver=2.6.0" type="text/css" media="all">
+<link rel="stylesheet" id="the7-css-vars-css" href="http://joinnrg.com/wp-content/uploads/the7-css/css-vars.css?ver=16e186f45eeb" type="text/css" media="all">
+<link rel="stylesheet" id="dt-custom-css" href="http://joinnrg.com/wp-content/uploads/the7-css/custom.css?ver=16e186f45eeb" type="text/css" media="all">
+<link rel="stylesheet" id="dt-media-css" href="http://joinnrg.com/wp-content/uploads/the7-css/media.css?ver=16e186f45eeb" type="text/css" media="all">
+<link rel="stylesheet" id="the7-mega-menu-css" href="http://joinnrg.com/wp-content/uploads/the7-css/mega-menu.css?ver=16e186f45eeb" type="text/css" media="all">
+<link rel="stylesheet" id="the7-elements-albums-portfolio-css" href="http://joinnrg.com/wp-content/uploads/the7-css/the7-elements-albums-portfolio.css?ver=16e186f45eeb" type="text/css" media="all">
+<link rel="stylesheet" id="the7-elements-css" href="http://joinnrg.com/wp-content/uploads/the7-css/post-type-dynamic.css?ver=16e186f45eeb" type="text/css" media="all">
+<link rel="stylesheet" id="style-css" href="http://joinnrg.com/wp-content/themes/dt-the7/style.css?ver=10.12.0" type="text/css" media="all">
+<script type="text/javascript" src="http://joinnrg.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
+<script type="text/javascript" src="http://joinnrg.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://joinnrg.com/wp-content/plugins/scroll-post-excerpt/scroll-post-excerpt.js?ver=6.0.2" id="scroll-post-excerpt-js"></script>
+<script type="text/javascript" src="http://joinnrg.com/wp-content/plugins/easing-slider/assets/js/public.min.js?ver=3.0.8" id="easingslider-js"></script>
+<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#product=ga&amp;property=5a0eae1fdaf39500128e184c" id="googleanalytics-platform-sharethis-js"></script>
+<script type="text/javascript" id="dt-above-fold-js-extra">
+/* <![CDATA[ */
+var dtLocal = {"themeUrl":"http:\/\/joinnrg.com\/wp-content\/themes\/dt-the7","passText":"To view this protected post, enter the password below:","moreButtonText":{"loading":"Loading...","loadMore":"Load more"},"postID":"9644","ajaxurl":"https:\/\/joinnrg.com\/wp-admin\/admin-ajax.php","REST":{"baseUrl":"https:\/\/joinnrg.com\/wp-json\/the7\/v1","endpoints":{"sendMail":"\/send-mail"}},"contactMessages":{"required":"One or more fields have an error. Please check and try again.","terms":"Please accept the privacy policy.","fillTheCaptchaError":"Please, fill the captcha."},"captchaSiteKey":"","ajaxNonce":"080d852944","pageData":"","themeSettings":{"smoothScroll":"off","lazyLoading":false,"accentColor":{"mode":"solid","color":"#dd3333"},"desktopHeader":{"height":120},"ToggleCaptionEnabled":"disabled","ToggleCaption":"Navigation","floatingHeader":{"showAfter":94,"showMenu":true,"height":80,"logo":{"showLogo":true,"html":"<img class=\" preload-me\" src=\"https:\/\/joinnrg.com\/wp-content\/uploads\/2022\/08\/Present-Gold-on-Black-FOR-EMAIL-e1659996198351.png\" srcset=\"https:\/\/joinnrg.com\/wp-content\/uploads\/2022\/08\/Present-Gold-on-Black-FOR-EMAIL-e1659996198351.png 180w, https:\/\/joinnrg.com\/wp-content\/uploads\/2022\/08\/Present-Gold-on-Black-FOR-EMAIL-e1659996198351.png 180w\" width=\"180\" height=\"60\"   sizes=\"180px\" alt=\"National Realty Guild\" \/>","url":"https:\/\/joinnrg.com\/"}},"topLine":{"floatingTopLine":{"logo":{"showLogo":false,"html":""}}},"mobileHeader":{"firstSwitchPoint":992,"secondSwitchPoint":500,"firstSwitchPointHeight":60,"secondSwitchPointHeight":60,"mobileToggleCaptionEnabled":"disabled","mobileToggleCaption":"Menu"},"stickyMobileHeaderFirstSwitch":{"logo":{"html":"<img class=\" preload-me\" src=\"https:\/\/joinnrg.com\/wp-content\/uploads\/2022\/08\/Present-Gold-logo-e1659996100213.png\" srcset=\"https:\/\/joinnrg.com\/wp-content\/uploads\/2022\/08\/Present-Gold-logo-e1659996100213.png 254w, https:\/\/joinnrg.com\/wp-content\/uploads\/2022\/08\/Present-Gold-logo-e1659996100213.png 254w\" width=\"254\" height=\"80\"   sizes=\"254px\" alt=\"National Realty Guild\" \/>"}},"stickyMobileHeaderSecondSwitch":{"logo":{"html":"<img class=\" preload-me\" src=\"https:\/\/joinnrg.com\/wp-content\/uploads\/2022\/08\/Present-Gold-logo-e1659996100213.png\" srcset=\"https:\/\/joinnrg.com\/wp-content\/uploads\/2022\/08\/Present-Gold-logo-e1659996100213.png 254w, https:\/\/joinnrg.com\/wp-content\/uploads\/2022\/08\/Present-Gold-logo-e1659996100213.png 254w\" width=\"254\" height=\"80\"   sizes=\"254px\" alt=\"National Realty Guild\" \/>"}},"content":{"textColor":"#7a7a7a","headerColor":"#333333"},"sidebar":{"switchPoint":990},"boxedWidth":"1280px","stripes":{"stripe1":{"textColor":"#787d85","headerColor":"#3b3f4a"},"stripe2":{"textColor":"#8b9199","headerColor":"#ffffff"},"stripe3":{"textColor":"#ffffff","headerColor":"#ffffff"}}},"VCMobileScreenWidth":"778"};
+var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Tweet","pinterest":"Pin it","linkedin":"Share on Linkedin","whatsapp":"Share on Whatsapp"},"overlayOpacity":"84"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://joinnrg.com/wp-content/themes/dt-the7/js/above-the-fold.min.js?ver=10.12.0" id="dt-above-fold-js"></script>
+<link rel="https://api.w.org/" href="https://joinnrg.com/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://joinnrg.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://joinnrg.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 6.0.2">
+<meta property="og:site_name" content="National Realty Guild">
+<meta property="og:title" content="Changing Firms">
+<meta property="og:description" content="Full support makes switching to&nbsp;NRG&nbsp;easy We help you properly prepare by designing personalized signs for listings, order business cards, activate a corporate email, set-up voicemail, agent websites, domain forwarding, and anything else necessary to assure a smooth transition. What happens when someone decides to join NRG Review &amp; Sign Contract Fill out personal information sheet&hellip;">
+<meta property="og:url" content="https://joinnrg.com/blog/changing-firms/">
+<meta property="og:type" content="object">
+<script>
+(function() {
+	(function (i, s, o, g, r, a, m) {
+		i['GoogleAnalyticsObject'] = r;
+		i[r] = i[r] || function () {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date();
+		a = s.createElement(o),
+			m = s.getElementsByTagName(o)[0];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore(a, m)
+	})(window, document, 'script', 'https://google-analytics.com/analytics.js', 'ga');
+
+	ga('create', 'UA-28886851-1', 'auto');
+			ga('send', 'pageview');
+	})();
+</script>
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+<script type="text/javascript" id="the7-loader-script">
+document.addEventListener("DOMContentLoaded", function(event) {
+	var load = document.getElementById("load");
+	if(!load.classList.contains('loader-removed')){
+		var removeLoading = setTimeout(function() {
+			load.className += " loader-removed";
+		}, 300);
+	}
+});
+</script>
+		<link rel="icon" href="Half-Gold-logo-with-maroon.jpg" type="image/jpeg" sizes="16x16"><link rel="icon" href="Half-Gold-logo-with-maroon.jpg" type="image/jpeg" sizes="32x32"><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><style id="the7-custom-inline-css" type="text/css">
+.sub-nav .menu-item i.fa,
+.sub-nav .menu-item i.fas,
+.sub-nav .menu-item i.far,
+.sub-nav .menu-item i.fab {
+	text-align: center;
+	width: 1.25em;
+}
+
+</style>
+</head>
+<body id="the7-body" class="error404 wp-embed-responsive the7-core-ver-2.6.0 dt-responsive-on right-mobile-menu-close-icon ouside-menu-close-icon mobile-hamburger-close-bg-enable mobile-hamburger-close-bg-hover-enable  fade-medium-mobile-menu-close-icon fade-medium-menu-close-icon srcset-enabled btn-flat custom-btn-color custom-btn-hover-color phantom-fade phantom-shadow-decoration phantom-custom-logo-on sticky-mobile-header top-header first-switch-logo-left first-switch-menu-right second-switch-logo-left second-switch-menu-right right-mobile-menu layzr-loading-on popup-message-style dt-fa-compatibility the7-ver-10.12.0 wpb-js-composer js-comp-ver-6.9.0 vc_responsive">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "/><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 0.49803921568627"/><fefuncg type="table" tableValues="0 0.49803921568627"/><fefuncb type="table" tableValues="0 0.49803921568627"/><fefunca type="table" tableValues="1 1"/></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"/></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "/><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 1"/><fefuncg type="table" tableValues="0 1"/><fefuncb type="table" tableValues="0 1"/><fefunca type="table" tableValues="1 1"/></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"/></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "/><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.54901960784314 0.98823529411765"/><fefuncg type="table" tableValues="0 1"/><fefuncb type="table" tableValues="0.71764705882353 0.25490196078431"/><fefunca type="table" tableValues="1 1"/></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"/></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "/><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 1"/><fefuncg type="table" tableValues="0 0.27843137254902"/><fefuncb type="table" tableValues="0.5921568627451 0.27843137254902"/><fefunca type="table" tableValues="1 1"/></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"/></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "/><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 0"/><fefuncg type="table" tableValues="0 0.64705882352941"/><fefuncb type="table" tableValues="0 1"/><fefunca type="table" tableValues="1 1"/></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"/></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "/><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.78039215686275 1"/><fefuncg type="table" tableValues="0 0.94901960784314"/><fefuncb type="table" tableValues="0.35294117647059 0.47058823529412"/><fefunca type="table" tableValues="1 1"/></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"/></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "/><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.65098039215686 0.40392156862745"/><fefuncg type="table" tableValues="0 1"/><fefuncb type="table" tableValues="0.44705882352941 0.4"/><fefunca type="table" tableValues="1 1"/></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"/></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "/><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.098039215686275 1"/><fefuncg type="table" tableValues="0 0.66274509803922"/><fefuncb type="table" tableValues="0.84705882352941 0.41960784313725"/><fefunca type="table" tableValues="1 1"/></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"/></filter></defs></svg><!-- The7 10.12.0 -->
+<div id="load" class="spinner-loader">
+	<div class="load-wrap"><style type="text/css">
+    [class*="the7-spinner-animate-"]{
+        animation: spinner-animation 1s cubic-bezier(1,1,1,1) infinite;
+        x:46.5px;
+        y:40px;
+        width:7px;
+        height:20px;
+        fill:var(--the7-beautiful-spinner-color2);
+        opacity: 0.2;
+    }
+    .the7-spinner-animate-2{
+        animation-delay: 0.083s;
+    }
+    .the7-spinner-animate-3{
+        animation-delay: 0.166s;
+    }
+    .the7-spinner-animate-4{
+         animation-delay: 0.25s;
+    }
+    .the7-spinner-animate-5{
+         animation-delay: 0.33s;
+    }
+    .the7-spinner-animate-6{
+         animation-delay: 0.416s;
+    }
+    .the7-spinner-animate-7{
+         animation-delay: 0.5s;
+    }
+    .the7-spinner-animate-8{
+         animation-delay: 0.58s;
+    }
+    .the7-spinner-animate-9{
+         animation-delay: 0.666s;
+    }
+    .the7-spinner-animate-10{
+         animation-delay: 0.75s;
+    }
+    .the7-spinner-animate-11{
+        animation-delay: 0.83s;
+    }
+    .the7-spinner-animate-12{
+        animation-delay: 0.916s;
+    }
+    @keyframes spinner-animation{
+        from {
+            opacity: 1;
+        }
+        to{
+            opacity: 0;
+        }
+    }
+</style>
+<svg width="75px" height="75px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
+	<rect class="the7-spinner-animate-1" rx="5" ry="5" transform="rotate(0 50 50) translate(0 -30)"/>
+	<rect class="the7-spinner-animate-2" rx="5" ry="5" transform="rotate(30 50 50) translate(0 -30)"/>
+	<rect class="the7-spinner-animate-3" rx="5" ry="5" transform="rotate(60 50 50) translate(0 -30)"/>
+	<rect class="the7-spinner-animate-4" rx="5" ry="5" transform="rotate(90 50 50) translate(0 -30)"/>
+	<rect class="the7-spinner-animate-5" rx="5" ry="5" transform="rotate(120 50 50) translate(0 -30)"/>
+	<rect class="the7-spinner-animate-6" rx="5" ry="5" transform="rotate(150 50 50) translate(0 -30)"/>
+	<rect class="the7-spinner-animate-7" rx="5" ry="5" transform="rotate(180 50 50) translate(0 -30)"/>
+	<rect class="the7-spinner-animate-8" rx="5" ry="5" transform="rotate(210 50 50) translate(0 -30)"/>
+	<rect class="the7-spinner-animate-9" rx="5" ry="5" transform="rotate(240 50 50) translate(0 -30)"/>
+	<rect class="the7-spinner-animate-10" rx="5" ry="5" transform="rotate(270 50 50) translate(0 -30)"/>
+	<rect class="the7-spinner-animate-11" rx="5" ry="5" transform="rotate(300 50 50) translate(0 -30)"/>
+	<rect class="the7-spinner-animate-12" rx="5" ry="5" transform="rotate(330 50 50) translate(0 -30)"/>
+</svg></div>
+</div>
+<div id="page">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+<div class="masthead inline-header right widgets shadow-mobile-header-decoration small-mobile-menu-icon mobile-menu-icon-bg-on mobile-menu-icon-hover-bg-on dt-parent-menu-clickable show-sub-menu-on-hover show-device-logo show-mobile-logo" role="banner">
+
+	<div class="top-bar top-bar-line-hide">
+	<div class="top-bar-bg"></div>
+	<div class="left-widgets mini-widgets"><div class="soc-ico show-on-desktop near-logo-first-switch near-logo-second-switch disabled-bg disabled-border border-off hover-custom-bg hover-disabled-border  hover-border-off"><a title="Facebook page opens in new window" href="https://www.facebook.com/nationalrealtyguild" target="_blank" class="facebook"><span class="soc-font-icon"></span><span class="screen-reader-text">Facebook page opens in new window</span></a><a title="Twitter page opens in new window" href="/" target="_blank" class="twitter"><span class="soc-font-icon"></span><span class="screen-reader-text">Twitter page opens in new window</span></a><a title="Instagram page opens in new window" href="/" target="_blank" class="instagram"><span class="soc-font-icon"></span><span class="screen-reader-text">Instagram page opens in new window</span></a></div></div><div class="right-widgets mini-widgets"><span class="mini-contacts clock show-on-desktop in-top-bar-right in-top-bar"><i class="fa-fw icomoon-the7-font-the7-clock-03"></i>Mon – Sat 9 AM – 5 PM</span><span class="mini-contacts phone show-on-desktop in-top-bar-right in-top-bar"><i class="fa-fw icomoon-the7-font-the7-phone-041"></i>651-330-8001</span></div></div>
+
+	<header class="header-bar">
+
+		<div class="branding">
+	<div id="site-title" class="assistive-text">National Realty Guild</div>
+	<div id="site-description" class="assistive-text">CULTURE  &#8211;   TECHNOLOGY  &#8211;   SUPPORT</div>
+	<a class href="https://joinnrg.com/"><img class=" preload-me" src="Present-Gold-logo-e1659996100213.png" srcset="Present-Gold-logo-e1659996100213.png 254w" width="254" height="80" sizes="254px" alt="National Realty Guild"><img class="mobile-logo preload-me" src="Present-Gold-logo-e1659996100213.png" srcset="Present-Gold-logo-e1659996100213.png 254w" width="254" height="80" sizes="254px" alt="National Realty Guild"></a></div>
+
+		<ul id="primary-menu" class="main-nav underline-decoration l-to-r-line outside-item-remove-margin" role="menubar"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9785 first depth-0" role="presentation"><a href="https://joinnrg.com/" data-level="1" role="menuitem"><span class="menu-item-text"><span class="menu-text">Home</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9802 depth-0" role="presentation"><a href="https://joinnrg.com/no-stress-commission-plans/" data-level="1" role="menuitem"><span class="menu-item-text"><span class="menu-text">Commission Plans</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9394 depth-0" role="presentation"><a href="https://joinnrg.com/contact/" data-level="1" role="menuitem"><span class="menu-item-text"><span class="menu-text">Office Locations</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9410 depth-0" role="presentation"><a href="https://joinnrg.com/about/" data-level="1" role="menuitem"><span class="menu-item-text"><span class="menu-text">About NRG</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9799 last depth-0" role="presentation"><a href="https://joinnrg.com/support-team/" data-level="1" role="menuitem"><span class="menu-item-text"><span class="menu-text">Support Team</span></span></a></li> </ul>
+		
+	</header>
+
+</div>
+<div class="dt-mobile-header mobile-menu-show-divider">
+	<div class="dt-close-mobile-menu-icon"><div class="close-line-wrap"><span class="close-line"></span><span class="close-line"></span><span class="close-line"></span></div></div>	<ul id="mobile-menu" class="mobile-main-nav" role="menubar">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9785 first depth-0" role="presentation"><a href="https://joinnrg.com/" data-level="1" role="menuitem"><span class="menu-item-text"><span class="menu-text">Home</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9802 depth-0" role="presentation"><a href="https://joinnrg.com/no-stress-commission-plans/" data-level="1" role="menuitem"><span class="menu-item-text"><span class="menu-text">Commission Plans</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9394 depth-0" role="presentation"><a href="https://joinnrg.com/contact/" data-level="1" role="menuitem"><span class="menu-item-text"><span class="menu-text">Office Locations</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9410 depth-0" role="presentation"><a href="https://joinnrg.com/about/" data-level="1" role="menuitem"><span class="menu-item-text"><span class="menu-text">About NRG</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9799 last depth-0" role="presentation"><a href="https://joinnrg.com/support-team/" data-level="1" role="menuitem"><span class="menu-item-text"><span class="menu-text">Support Team</span></span></a></li> 	</ul>
+	<div class="mobile-mini-widgets-in-menu"></div>
+</div>
+
+		<div class="page-title title-center solid-bg">
+			<div class="wf-wrap">
+
+				<div class="page-title-head hgroup"><h1>Page not found</h1></div><div class="page-title-breadcrumbs"><div class="assistive-text">You are here:</div><ol class="breadcrumbs text-small" itemscope itemtype="https://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="https://joinnrg.com/" title="Home"><span itemprop="name">Home</span></a><meta itemprop="position" content="1"></li><li class="current" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><span itemprop="name">Error 404</span><meta itemprop="position" content="2"></li></ol></div>			</div>
+		</div>
+
+		
+
+<div id="main" class="sidebar-none sidebar-divider-vertical">
+
+	
+	<div class="main-gradient"></div>
+	<div class="wf-wrap">
+	<div class="wf-container-main">
+
+	
+
+	<!-- Content -->
+	<div id="content" class="content" role="main" style="min-height: 500px; text-align:center">
+
+		<article id="post-0" class="post error404 not-found">
+
+			<h1 class="entry-title">Oops! That page can&rsquo;t be found.</h1><p>It looks like nothing was found at this location. Try using the search box below:</p><form class="searchform" role="search" method="get" action="https://joinnrg.com/">
+    <label for="the7-search" class="screen-reader-text">Search:</label>
+    <input type="text" id="the7-search" class="field searchform-s" name="s" value placeholder="Type and hit enter &hellip;">
+    <input type="submit" class="assistive-text searchsubmit" value="Go!">
+    <a href class="submit"></a>
+</form>
+
+		</article><!-- #post-0 .post .error404 .not-found -->
+
+	</div><!-- #content .site-content -->
+
+
+
+			</div><!-- .wf-container -->
+		</div><!-- .wf-wrap -->
+
+	
+	</div><!-- #main -->
+
+	
+
+
+	<!-- !Footer -->
+	<footer id="footer" class="footer solid-bg">
+
+		
+<!-- !Bottom-bar -->
+<div id="bottom-bar" class="full-width-line logo-left" role="contentinfo">
+    <div class="wf-wrap">
+        <div class="wf-container-bottom">
+
+			<div id="branding-bottom"><a class href="https://joinnrg.com/"><img class=" preload-me" src="Present-Gold-logo-e1659996100213.png" srcset="Present-Gold-logo-e1659996100213.png 254w" width="254" height="80" sizes="254px" alt="National Realty Guild"></a></div>
+                <div class="wf-float-left">
+
+					© National Realty Guild 2022. All rights reserved.
+                </div>
+
+			
+            <div class="wf-float-right">
+
+				<div class="bottom-text-block"><p><i style="padding-right: 5px" class="fas fa-phone-square"></i>+1 651-330-8001 <i style="padding-right: 5px;padding-left: 20px" class="fas fa-envelope"></i>admin@nrgadmin.com</p>
+</div>
+            </div>
+
+        </div><!-- .wf-container-bottom -->
+    </div><!-- .wf-wrap -->
+</div><!-- #bottom-bar -->
+	</footer><!-- #footer -->
+
+<a href="#" class="scroll-top"><span class="screen-reader-text">Go to Top</span></a>
+
+</div><!-- #page -->
+
+<script type="text/javascript" src="http://joinnrg.com/wp-content/themes/dt-the7/js/main.min.js?ver=10.12.0" id="dt-main-js"></script>
+<script type="text/javascript" src="http://joinnrg.com/wp-includes/js/jquery/jquery.form.min.js?ver=4.3.0" id="jquery-form-js"></script>
+<script type="text/javascript" src="http://joinnrg.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4" id="imagesloaded-js"></script>
+<script type="text/javascript" src="http://joinnrg.com/wp-includes/js/masonry.min.js?ver=4.2.2" id="masonry-js"></script>
+<script type="text/javascript" src="http://joinnrg.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b" id="jquery-masonry-js"></script>
+<script type="text/javascript" src="http://joinnrg.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="http://joinnrg.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.1" id="jquery-ui-mouse-js"></script>
+<script type="text/javascript" src="http://joinnrg.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.1" id="jquery-ui-resizable-js"></script>
+<script type="text/javascript" src="http://joinnrg.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.1" id="jquery-ui-draggable-js"></script>
+<script type="text/javascript" src="http://joinnrg.com/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.1" id="jquery-ui-controlgroup-js"></script>
+<script type="text/javascript" src="http://joinnrg.com/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.1" id="jquery-ui-checkboxradio-js"></script>
+<script type="text/javascript" src="http://joinnrg.com/wp-includes/js/jquery/ui/button.min.js?ver=1.13.1" id="jquery-ui-button-js"></script>
+<script type="text/javascript" src="http://joinnrg.com/wp-includes/js/jquery/ui/dialog.min.js?ver=1.13.1" id="jquery-ui-dialog-js"></script>
+<script type="text/javascript" src="http://joinnrg.com/wp-content/plugins/wp-photo-album-plus/js/wppa-all.js?ver=220812-152836" id="wppa-js"></script>
+<script type="text/javascript" src="http://joinnrg.com/wp-content/plugins/wp-photo-album-plus/vendor/jquery-easing/jquery.easing.min.js?ver=8.2.04.009" id="nicescrollr-easing-min-js-js"></script>
+<script type="text/javascript" src="http://joinnrg.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="http://joinnrg.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/joinnrg.com\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://joinnrg.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.2" id="contact-form-7-js"></script>
+<script type="text/javascript" src="http://joinnrg.com/wp-content/themes/dt-the7/js/legacy.min.js?ver=10.12.0" id="dt-legacy-js"></script>
+<script type="text/javascript" src="http://joinnrg.com/wp-content/themes/dt-the7/lib/jquery-mousewheel/jquery-mousewheel.min.js?ver=10.12.0" id="jquery-mousewheel-js"></script>
+<script type="text/javascript" src="http://joinnrg.com/wp-content/themes/dt-the7/lib/custom-scrollbar/custom-scrollbar.min.js?ver=10.12.0" id="the7-custom-scrollbar-js"></script>
+<script type="text/javascript" src="http://joinnrg.com/wp-content/plugins/dt-the7-core/assets/js/post-type.min.js?ver=2.6.0" id="the7-core-js"></script>
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+	<div class="pswp__bg"></div>
+	<div class="pswp__scroll-wrap">
+		<div class="pswp__container">
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+		</div>
+		<div class="pswp__ui pswp__ui--hidden">
+			<div class="pswp__top-bar">
+				<div class="pswp__counter"></div>
+				<button class="pswp__button pswp__button--close" title="Close (Esc)" aria-label="Close (Esc)"></button>
+				<button class="pswp__button pswp__button--share" title="Share" aria-label="Share"></button>
+				<button class="pswp__button pswp__button--fs" title="Toggle fullscreen" aria-label="Toggle fullscreen"></button>
+				<button class="pswp__button pswp__button--zoom" title="Zoom in/out" aria-label="Zoom in/out"></button>
+				<div class="pswp__preloader">
+					<div class="pswp__preloader__icn">
+						<div class="pswp__preloader__cut">
+							<div class="pswp__preloader__donut"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+				<div class="pswp__share-tooltip"></div> 
+			</div>
+			<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)" aria-label="Previous (arrow left)">
+			</button>
+			<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)" aria-label="Next (arrow right)">
+			</button>
+			<div class="pswp__caption">
+				<div class="pswp__caption__center"></div>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>
